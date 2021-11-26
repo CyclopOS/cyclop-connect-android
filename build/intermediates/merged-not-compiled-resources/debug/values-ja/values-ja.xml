@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="convert_to_mms_after_entries">
+    <item>After one message</item>
+    <item>After two messages</item>
+    <item>After three messages</item>
+    <item>After four messages</item>
+    <item>After five messages</item>
+  </string-array>
+    <string-array name="mousepad_acceleration_profile_entries">
+    <item>加速なし</item>
+    <item>最弱</item>
+    <item>弱</item>
+    <item>中</item>
+    <item>強</item>
+    <item>最強</item>
+  </string-array>
+    <string-array name="mousepad_sensitivity_entries">
+    <item>最も遅く</item>
+    <item>遅め</item>
+    <item>デフォルト</item>
+    <item>デフォルト以上</item>
+    <item>高速</item>
+  </string-array>
+    <string-array name="mousepad_tap_entries">
+    <item>右クリック</item>
+    <item>中クリック</item>
+    <item>なし</item>
+  </string-array>
+    <string-array name="mpris_time_entries">
+    <item>10 秒</item>
+    <item>20 秒</item>
+    <item>30 秒</item>
+    <item>1 分</item>
+    <item>2 分</item>
+  </string-array>
+    <string-array name="theme_list">
+    <item>Set by Battery Saver</item>
+    <item/>
+    <item>Dark</item>
+  </string-array>
+    <string-array name="theme_list_v28">
+    <item/>
+    <item/>
+    <item>Dark</item>
+  </string-array>
+    <plurals name="incoming_file_title">
+    <item quantity="other">%1$d ファイルを %2$s から受信しています</item>
+  </plurals>
+    <plurals name="incoming_files_text">
+    <item quantity="other">ファイル: %1s</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d 件の新しい通知</item>
+    <item quantity="other">%d 件の新しい通知</item>
+  </plurals>
+    <plurals name="outgoing_file_title">
+    <item quantity="other">%1$d ファイルを %2$s へ送信中</item>
+  </plurals>
+    <plurals name="outgoing_files_text">
+    <item quantity="other">ファイル: %1$s</item>
+  </plurals>
+    <plurals name="received_files_fail_title">
+    <item quantity="other">%1$s からのファイルの受信に失敗</item>
+  </plurals>
+    <plurals name="received_files_title">
+    <item quantity="other">%1$s からファイルを受信</item>
+  </plurals>
+    <plurals name="send_files_fail_title">
+    <item quantity="other">%1$s へのファイル送信に失敗</item>
+  </plurals>
+    <plurals name="sent_files_title">
+    <item quantity="other">%1$s にファイルを送信済み</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ホームに戻る"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"前に戻る"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完了"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"OFF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ON"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"検索…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>と共有"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="add_command">コマンドを追加</string>
+    <string name="add_command_description">デスクトップから新しいコマンドを追加できます</string>
+    <string name="add_device_dialog_title">デバイスを追加</string>
+    <string name="add_device_hint">ホスト名/IPアドレス</string>
+    <string name="addcommand_explanation">コマンドが登録されていません</string>
+    <string name="addcommand_explanation2">Cyclop Connect のシステム設定で新しいコマンドを追加できます</string>
+    <string name="all">すべて</string>
+    <string name="block_contents">通知の内容をブロック</string>
+    <string name="block_images">通知の画像をブロック</string>
+    <string name="bottomsheet_action_expand_halfway">下半分を展開</string>
+    <string name="cancel">キャンセル</string>
+    <string name="cannot_create_file">ファイル %s を作成できません</string>
+    <string name="category_connected_devices">接続済みのデバイス</string>
+    <string name="category_not_paired_devices">利用可能なデバイス</string>
+    <string name="category_remembered_devices">ペアリング済みのデバイス</string>
+    <string name="character_counter_content_description">入力済み文字数: %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">文字数制限を超えています（%1$d/%2$d 文字）</string>
+    <string name="clear_text_end_icon_content_description">テキストを消去</string>
+    <string name="clipboard_toast">クリップボードにコピーしました</string>
+    <string name="close">閉じる</string>
+    <string name="contacts_permission_explanation">連絡先をデスクトップと共有するために、連絡先の権限が必要です</string>
+    <string msgid="3209159573327985035" name="copy">"コピー"</string>
+    <string name="copy_url_to_clipboard">URL をクリップボードにコピー</string>
+    <string name="custom_device_deleted">カスタムデバイスが削除されました</string>
+    <string name="custom_device_fab_hint">デバイスを追加</string>
+    <string name="custom_device_list">IP アドレスでデバイスを追加</string>
+    <string name="custom_device_list_help">もしデバイスが自動的に検出されない場合、フローティングアクションボタンを押して手動で IP アドレスやホストネームを追加できます</string>
+    <string name="custom_devices_settings">カスタムデバイスリスト</string>
+    <string name="device_icon_description">デバイスアイコン</string>
+    <string name="device_list_empty">デバイスなし</string>
+    <string name="device_menu_plugins">プラグイン設定</string>
+    <string name="device_menu_unpair">ペアリング解除</string>
+    <string name="device_not_paired">デバイスはペアリングされていません</string>
+    <string name="device_rename_confirm">名前変更</string>
+    <string name="device_rename_title">デバイス名を変更</string>
+    <string name="devices">デバイス</string>
+    <string name="encryption_info_msg_no_ssl">他のデバイスは最近のバージョンの Cyclop Connect を利用していません。古い暗号化方式を使用しています</string>
+    <string name="encryption_info_title">暗号化情報</string>
+    <string name="error_already_paired">デバイスは既にペアリング済みです</string>
+    <string name="error_canceled_by_other_peer">他のピアにキャンセルされました</string>
+    <string name="error_canceled_by_user">ユーザにキャンセルされました</string>
+    <string name="error_could_not_send_package">パッケージを送信できませんでした</string>
+    <string name="error_icon_content_description">エラー</string>
+    <string name="error_not_reachable">デバイスに到達できません</string>
+    <string name="error_timed_out">タイムアウト</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"詳細設定"</string>
+    <string name="exposed_dropdown_menu_content_description">プルダウン メニューを表示</string>
+    <string name="extra_options">追加オプション</string>
+    <string name="filter_apps_info">選択されたアプリケーションの通知が同期されます。</string>
+    <string name="findmyphone_description">このデバイスを鳴らすことで捜索できます</string>
+    <string name="findmyphone_title">スマートフォンを捜索</string>
+    <string name="findmyphone_title_tablet">タブレットを捜索</string>
+    <string name="findmyphone_title_tv">TV を捜索</string>
+    <string name="foreground_notification_devices">接続済み: %s</string>
+    <string name="foreground_notification_no_devices">デバイスに接続されていません</string>
+    <string name="icon_content_description">ダイアログ アイコン</string>
+    <string name="invalid_device_name">不正なデバイス名</string>
+    <string name="item_view_role_description">タブ</string>
+    <string name="kde_connect">Cyclop Connect</string>
+    <string name="material_clock_toggle_content_description">午前または午後を選択</string>
+    <string name="material_hour_selection">時刻を選択してください</string>
+    <string name="material_hour_suffix">%1$s時</string>
+    <string name="material_minute_selection">分を選択</string>
+    <string name="material_minute_suffix">%1$s分</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">時刻を時計で入力するモードに切り替えます。</string>
+    <string name="material_timepicker_hour">時間</string>
+    <string name="material_timepicker_minute">分</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">時間を選択</string>
+    <string name="material_timepicker_text_input_mode_description">時刻をテキストで入力するモードに切り替えます。</string>
+    <string name="middle_click">中クリックを送信</string>
+    <string name="mousepad_acceleration_profile_settings_title">ポインタの速度を設定</string>
+    <string name="mousepad_double_tap_settings_title">2本指タップのアクションを設定</string>
+    <string name="mousepad_info">スクリーン上で指を動かしてマウスカーソルを移動します。タップはクリックとなり、2/3本指で右クリック、中クリックとなります。2本指を使ってスクロールが可能です。長押しすることでドラッグ&amp;ドロップできます。</string>
+    <string name="mousepad_scroll_direction_title">スクロールの方向を反転</string>
+    <string name="mousepad_sensitivity_settings_title">タッチパッドの感度を設定</string>
+    <string name="mousepad_triple_tap_settings_title">3本指タップのアクションを設定</string>
+    <string name="mpris_coverart_description">現在のメディアのカバーアート</string>
+    <string name="mpris_ff">早送り</string>
+    <string name="mpris_next">次へ</string>
+    <string name="mpris_notification_settings_summary">Cyclop Connect を開かずにメディアプレーヤーをコントロール可能にします</string>
+    <string name="mpris_notification_settings_title">メディア操作の通知を表示</string>
+    <string name="mpris_pause">一時停止</string>
+    <string name="mpris_play">再生</string>
+    <string name="mpris_previous">前へ</string>
+    <string name="mpris_rew">巻き戻し</string>
+    <string name="mpris_stop">現在のプレーヤーを停止</string>
+    <string name="mpris_time_settings_summary">押した時に早送り/巻き戻しする時間を調整</string>
+    <string name="mpris_time_settings_title">早送り/巻き戻しボタン</string>
+    <string name="mpris_volume">音量</string>
+    <string name="mtrl_badge_numberless_content_description">新しい通知</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s を削除します</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d 件以上の新しい通知</string>
+    <string name="mtrl_picker_a11y_next_month">翌月に変更</string>
+    <string name="mtrl_picker_a11y_prev_month">前月に変更</string>
+    <string name="mtrl_picker_announce_current_selection">現在の選択: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">日付を選択してください</string>
+    <string name="mtrl_picker_date_header_unselected">選択した日付</string>
+    <string name="mtrl_picker_day_of_week_column_header">曜日の列: %1$s</string>
+    <string name="mtrl_picker_invalid_format">形式が無効です。</string>
+    <string name="mtrl_picker_invalid_format_example">例: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用: %1$s</string>
+    <string name="mtrl_picker_invalid_range">範囲が無効です。</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s 年に移動</string>
+    <string name="mtrl_picker_out_of_range">範囲外: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">開始日～%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s～終了日</string>
+    <string name="mtrl_picker_range_header_selected">%1$s～%2$s</string>
+    <string name="mtrl_picker_range_header_title">期間を選択してください</string>
+    <string name="mtrl_picker_range_header_unselected">開始日～終了日</string>
+    <string name="mtrl_picker_save">保存</string>
+    <string name="mtrl_picker_text_input_date_hint">日付</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">終了日</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">開始日</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">カレンダー入力モードに切り替え</string>
+    <string name="mtrl_picker_toggle_to_day_selection">タップすると、日の選択に切り替わります</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">テキスト入力モードに切り替え</string>
+    <string name="mtrl_picker_toggle_to_year_selection">タップすると、年の選択に切り替わります</string>
+    <string name="mute">ミュート</string>
+    <string name="no_app_for_opening">このファイルを開くのに適切なアプリが見つかりません</string>
+    <string name="no_file_browser">ファイルブラウザがインストールされていません</string>
+    <string name="no_permission_mprisreceiver">メディアプレーヤーを操作するためには、通知へのアクセスを許可する必要があります</string>
+    <string name="no_permissions">通知にアクセスするには権限を許可する必要があります</string>
+    <string name="no_permissions_remotekeyboard">キー入力を受信するには Cyclop Connect リモートキーボードをアクティブ化する必要があります</string>
+    <string name="no_players_connected">プレーヤーが見つかりませんでした</string>
+    <string name="no_wifi">Wi-Fi ネットワークに接続していないため、デバイスが一つも表示されない可能性があります。ここをクリックして Wi-Fi を有効化</string>
+    <string msgid="478774118347071097" name="not_set">"未設定"</string>
+    <string name="notification_channel_default">他の通知</string>
+    <string name="notification_channel_filetransfer">ファイル転送</string>
+    <string name="notification_channel_media_control">メディアの操作</string>
+    <string name="notification_channel_persistent">永続的なインジケータ</string>
+    <string name="notification_channel_receivenotification">他のデバイスからの通知</string>
+    <string name="ok">OK</string>
+    <string name="open">開く</string>
+    <string name="open_mousepad">リモート入力</string>
+    <string name="open_mpris_controls">マルチメディアの操作</string>
+    <string name="open_settings">設定を開く</string>
+    <string name="optional_permission_explanation">すべての機能を有効にするには、追加の権限を許可する必要があります</string>
+    <string name="pair_new_device">新しいデバイスをペアリング</string>
+    <string name="pair_requested">ペアリング要求済み</string>
+    <string name="pairing_accept">許可</string>
+    <string name="pairing_description">同じネットワーク内で Cyclop Connect を実行しているデバイスがここに表示されます</string>
+    <string name="pairing_reject">拒否</string>
+    <string name="pairing_request_from">%1s からペアリングを要求されました</string>
+    <string name="pairing_title">Cyclop Connect デバイス</string>
+    <string name="password_toggle_content_description">パスワードを表示</string>
+    <string name="permission_explanation">このプラグインが機能するには権限が必要です</string>
+    <string name="plugin_photo_desc">素早く写真を撮り、転送するためにカメラを起動</string>
+    <string name="plugin_settings_with_name">%s 設定</string>
+    <string name="plugins_need_optional_permission">権限が不足しているため、いくつかのプラグインの機能は無効化されています (タップして詳細情報を表示):</string>
+    <string name="plugins_need_permission">いくつかのプラグインが機能するには権限が必要です (タップして詳細情報を表示):</string>
+    <string name="pref_plugin_battery">バッテリーレポート</string>
+    <string name="pref_plugin_battery_desc">定期的にバッテリー状態を報告します</string>
+    <string name="pref_plugin_clipboard">クリップボードの同期</string>
+    <string name="pref_plugin_clipboard_desc">クリップボードの内容を共有</string>
+    <string name="pref_plugin_contacts">連絡先の同期</string>
+    <string name="pref_plugin_contacts_desc">デバイスの連絡先の同期を許可</string>
+    <string name="pref_plugin_findremotedevice">リモートデバイスを捜索</string>
+    <string name="pref_plugin_findremotedevice_desc">リモートデバイスを捜索</string>
+    <string name="pref_plugin_mousepad">リモート入力</string>
+    <string name="pref_plugin_mousepad_desc">あなたのスマートフォンやタブレットをタッチパッドやキーボードとして利用します</string>
+    <string name="pref_plugin_mpris">マルチメディアの操作</string>
+    <string name="pref_plugin_mpris_desc">あなたのメディアプレーヤーへのリモート操作を提供します</string>
+    <string name="pref_plugin_mprisreceiver">メディアプレーヤーの操作</string>
+    <string name="pref_plugin_notifications">通知の同期</string>
+    <string name="pref_plugin_notifications_desc">他のデバイスから通知にアクセス</string>
+    <string name="pref_plugin_ping">Ping</string>
+    <string name="pref_plugin_ping_desc">Ping を送受信</string>
+    <string name="pref_plugin_presenter">リモートスライドショー</string>
+    <string name="pref_plugin_presenter_desc">あなたのデバイスを使ってプレゼンテーションのスライドを変更</string>
+    <string name="pref_plugin_receive_notifications">通知の受信</string>
+    <string name="pref_plugin_receive_notifications_desc">他のデバイスから通知を受信し、Android に表示します</string>
+    <string name="pref_plugin_remotekeyboard">リモートからキー入力を受信</string>
+    <string name="pref_plugin_remotekeyboard_desc">リモートデバイスからキーイベントを受信</string>
+    <string name="pref_plugin_runcommand">コマンドを実行</string>
+    <string name="pref_plugin_runcommand_desc">スマートフォンやタブレットからリモートコマンドを実行</string>
+    <string name="pref_plugin_sftp">ファイルシステムの参照</string>
+    <string name="pref_plugin_sftp_desc">リモートからこのデバイスのファイルシステムへの閲覧を可能にします</string>
+    <string name="pref_plugin_sharereceiver">共有と受信</string>
+    <string name="pref_plugin_sharereceiver_desc">デバイス間でファイルと URL を共有</string>
+    <string name="pref_plugin_systemvolume">システム音量</string>
+    <string name="pref_plugin_systemvolume_desc">リモートデバイスのシステム音量を操作</string>
+    <string name="pref_plugin_telepathy">SMS を送信</string>
+    <string name="pref_plugin_telepathy_desc">デスクトップからテキストメッセージを送信</string>
+    <string name="pref_plugin_telephony">電話通知</string>
+    <string name="pref_plugin_telephony_desc">着信通知を送信</string>
+    <string msgid="7961817945132860002" name="preference_copied">"「<ns1:g id="SUMMARY">%1$s</ns1:g>」をクリップボードにコピーしました。"</string>
+    <string name="presenter_exit">プレゼンテーションを終了</string>
+    <string name="presenter_fullscreen">フルスクリーン</string>
+    <string name="presenter_lock_tip">デバイスをロックして、音量キーでスライドを前/次に移動できます</string>
+    <string name="presenter_pointer">ポインタ</string>
+    <string name="privacy_options">プライバシーオプション</string>
+    <string name="protocol_version_newer">このデバイスはより新しいプロトコルバージョンを使用しています</string>
+    <string name="received_file_text">タップして \'%1s\' を開く</string>
+    <string name="refresh">更新</string>
+    <string name="remote_keyboard_service">Cyclop Connect リモートキーボード</string>
+    <string name="remotekeyboard_connected">リモートキーボード接続はアクティブです</string>
+    <string name="remotekeyboard_editing_only_title">編集中にのみリモートキーを取り扱う</string>
+    <string name="remotekeyboard_multiple_connections">一つ以上のリモートキーボード接続があります。設定するデバイスを選択してください</string>
+    <string name="remotekeyboard_not_connected">有効なリモートキーボード接続がありません。Cyclop Connect で確立してください</string>
+    <string name="request_pairing">ペアリングを要求</string>
+    <string name="right_click">右クリックを送信</string>
+    <string name="ring">鳴らす</string>
+    <string name="runcommand_noruncommandplugin">このデバイスは \'コマンドを実行\' プラグインを有効にしていません</string>
+    <string name="runcommand_nosuchdevice">そのようなデバイスはありません</string>
+    <string name="runcommand_notpaired">デバイスはペアリングされていません</string>
+    <string name="runcommand_notreachable">デバイスに到達できません</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"検索"</string>
+    <string name="select_ringtone">着信音を選択</string>
+    <string name="send_files">ファイルを送信</string>
+    <string name="send_ping">Ping を送信</string>
+    <string name="set_privacy_options">プライバシーオプションを設定</string>
+    <string name="setting_persistent_notification">永続的な通知を表示</string>
+    <string name="setting_persistent_notification_description">タップして通知設定内で有効化/無効化します</string>
+    <string name="setting_persistent_notification_oreo">永続的な通知</string>
+    <string name="settings">設定</string>
+    <string name="settings_dark_mode">ダーク テーマ</string>
+    <string name="settings_icon_description">設定アイコン</string>
+    <string name="settings_more_settings_text">デバイスごとの設定はデバイス内の \'プラグイン設定\' にあります</string>
+    <string name="settings_more_settings_title">その他の設定</string>
+    <string name="settings_rename">デバイス名</string>
+    <string name="sftp_action_mode_menu_delete">削除</string>
+    <string name="sftp_camera">カメラ画像</string>
+    <string name="sftp_no_sdcard_detected">SD カードが検出されません</string>
+    <string name="sftp_no_storage_locations_configured">ストレージの場所が設定されていません</string>
+    <string name="sftp_preference_add_camera_shortcut">カメラフォルダのショートカットを追加</string>
+    <string name="sftp_preference_add_camera_shortcut_summary_off">カメラフォルダのショートカットを追加しない</string>
+    <string name="sftp_preference_add_camera_shortcut_summary_on">カメラフォルダへのショートカットを追加</string>
+    <string name="sftp_preference_add_storage_location_title">ストレージの場所を追加</string>
+    <string name="sftp_preference_configured_storage_locations">設定されたストレージの場所</string>
+    <string name="sftp_preference_detected_sdcards">検出された SD カード</string>
+    <string name="sftp_preference_edit_sdcard_title">SD カードを編集</string>
+    <string name="sftp_preference_edit_storage_location">ストレージの場所を編集</string>
+    <string name="sftp_readonly">(読み取り専用)</string>
+    <string name="sftp_saf_permission_explanation">リモートからファイルにアクセスするには、ストレージの場所を設定する必要があります</string>
+    <string name="sftp_sdcard">SD カード</string>
+    <string name="sftp_sdcard_num">SD カード %d</string>
+    <string name="sftp_storage_preference_click_to_select">クリックして選択</string>
+    <string name="sftp_storage_preference_display_name">表示名</string>
+    <string name="sftp_storage_preference_display_name_already_used">この表示名は既に使用されています</string>
+    <string name="sftp_storage_preference_display_name_cannot_be_empty">表示名は空にできません</string>
+    <string name="sftp_storage_preference_storage_location">ストレージの場所</string>
+    <string name="sftp_storage_preference_storage_location_already_configured">この場所は既に設定されています</string>
+    <string name="share">共有</string>
+    <string name="share_destination_customize">行き先ディレクトリをカスタマイズ</string>
+    <string name="share_destination_customize_summary_disabled">受信したファイルは Downloads に保存されます</string>
+    <string name="share_destination_customize_summary_enabled">ファイルは以下のディレクトリに保存されます</string>
+    <string name="share_destination_folder_preference">行き先ディレクトリ</string>
+    <string name="share_notification_preference">うるさい通知</string>
+    <string name="share_notification_preference_summary">ファイル受信時にバイブレートし、音声を再生します</string>
+    <string name="share_received_file">\"%s\" を共有</string>
+    <string name="share_to">共有先...</string>
+    <string name="shareplugin_text_saved">テキストを受信し、クリップボードに保存しました</string>
+    <string name="show_keyboard">キーボードを表示</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>、<ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="take_picture">カメラを起動</string>
+    <string name="tap_to_answer">タップして応答</string>
+    <string name="telepathy_permission_explanation">デスクトップから SMS を送受信するには SMS の権限を付与する必要があります</string>
+    <string name="telephony_optional_permission_explanation">電話番号ではなく連絡先名を見るには、端末の連絡先へのアクセスを許可する必要があります</string>
+    <string name="telephony_permission_explanation">デスクトップで通話を表示するために、電話の状態と通話履歴の権限を許可する必要があります</string>
+    <string name="telephony_pref_blocked_dialog_desc">これらの番号からの通話と SMS を表示しません。一行に1つの電話番号を指定してください</string>
+    <string name="telephony_pref_blocked_title">ブロックされた番号</string>
+    <string name="title_activity_notification_filter">通知フィルタ</string>
+    <string name="undo">元に戻す</string>
+    <string name="unknown_device">不明なデバイス</string>
+    <string name="unreachable_description">このペアリング済みデバイスに到達できません。同一のネットワーク内に 接続されていることを確認してください</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"OFF"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ON"</string>
+</resources>

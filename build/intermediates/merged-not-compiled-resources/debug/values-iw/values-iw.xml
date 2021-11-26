@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="convert_to_mms_after_entries">
+    <item>After one message</item>
+    <item>After two messages</item>
+    <item>After three messages</item>
+    <item>After four messages</item>
+    <item>After five messages</item>
+  </string-array>
+    <string-array name="mousepad_acceleration_profile_entries">
+    <item>No Acceleration</item>
+    <item>Weakest</item>
+    <item>Weaker</item>
+    <item>Medium</item>
+    <item>Stronger</item>
+    <item>Strongest</item>
+  </string-array>
+    <string-array name="mousepad_sensitivity_entries">
+    <item>הכי איטי</item>
+    <item>יותר מההכי איטי</item>
+    <item>ברירת החדל</item>
+    <item>יותר מהברירת מחדל</item>
+    <item>הכי מהיר</item>
+  </string-array>
+    <string-array name="mousepad_tap_entries">
+    <item>"לחיצה ימנית "</item>
+    <item>לחיצה אצמעית (גלגלת)</item>
+    <item>שום דבר</item>
+  </string-array>
+    <string-array name="mpris_time_entries">
+    <item>10 שניות</item>
+    <item>20 שניות</item>
+    <item>חצי דקה</item>
+    <item>דקה</item>
+    <item>שתי דקות</item>
+  </string-array>
+    <string-array name="theme_list">
+    <item>Set by Battery Saver</item>
+    <item/>
+    <item>Dark</item>
+  </string-array>
+    <string-array name="theme_list_v28">
+    <item/>
+    <item/>
+    <item>Dark</item>
+  </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">התראה חדשה אחת (%d)</item>
+    <item quantity="two">%d התראות חדשות</item>
+    <item quantity="many">%d התראות חדשות</item>
+    <item quantity="other">%d התראות חדשות</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ניווט לדף הבית"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"ניווט למעלה"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"עוד אפשרויות"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"סיום"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"הצגת הכול"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"בחירת אפליקציה"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"כבוי"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"מופעל"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+‎"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"מחיקה"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"רווח"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"תפריט+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"חיפוש…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"מחיקת השאילתה"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"שאילתת חיפוש"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"חיפוש"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"שליחת שאילתה"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"חיפוש קולי"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"שיתוף עם"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"שיתוף עם <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"כיווץ"</string>
+    <string name="bottomsheet_action_expand_halfway">הרחבה עד האמצע</string>
+    <string name="cancel">בטל</string>
+    <string name="category_connected_devices">התקנים מחוברים</string>
+    <string name="category_not_paired_devices">התקנים זמינים</string>
+    <string name="category_remembered_devices">התקנים זכורים</string>
+    <string name="character_counter_content_description">הוזנו %1$d תווים מתוך %2$d</string>
+    <string name="character_counter_overflowed_content_description">מגבלת התווים חורגת ב-%1$d מתוך %2$d</string>
+    <string name="clear_text_end_icon_content_description">מחיקת הטקסט</string>
+    <string name="close">סגור</string>
+    <string msgid="3209159573327985035" name="copy">"העתקה"</string>
+    <string name="custom_device_list">הוסף התקן על ידי כתובת IP</string>
+    <string name="custom_devices_settings">רשימת התקנים מותאמת אישית</string>
+    <string name="device_list_empty">אין התקנים</string>
+    <string name="device_menu_plugins">הגדרות תוספים</string>
+    <string name="device_menu_unpair">בטל התאמה</string>
+    <string name="device_not_paired">ההתקן לא מותאם</string>
+    <string name="device_rename_confirm">שנה שם</string>
+    <string name="device_rename_title">שנה שם התקן</string>
+    <string name="encryption_info_msg_no_ssl">ההתקן השני אינו משתמש בגרסה האחרונה של Cyclop Connect, משתמש בשיטת ההצפנה הישנה.</string>
+    <string name="encryption_info_title">פרטי הצפנה</string>
+    <string name="error_already_paired">ההתקן כבר מותאם</string>
+    <string name="error_canceled_by_other_peer">בוטל על ידי מישהו אחר</string>
+    <string name="error_canceled_by_user">בוטל על ידי המשתמש</string>
+    <string name="error_could_not_send_package">לא יכול לשלוח חבילה</string>
+    <string name="error_icon_content_description">שגיאה</string>
+    <string name="error_not_reachable">ההתקן לא זמין</string>
+    <string name="error_timed_out">נגמר הזמן</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"מתקדם"</string>
+    <string name="exposed_dropdown_menu_content_description">הצגת התפריט הנפתח</string>
+    <string name="filter_apps_info">התראות יסונכרנו רק לאפליקציות נבחרות</string>
+    <string name="findmyphone_description">מפעיל רעש במכשיר כדי שתוכל למצוא אותו.</string>
+    <string name="findmyphone_title">מצא את הפלאפון שלי</string>
+    <string name="findmyphone_title_tablet">מצא את הטבלט שלי</string>
+    <string name="icon_content_description">סמל לתיבת דו-שיח</string>
+    <string name="invalid_device_name">שם ההתקן לא תקין</string>
+    <string name="item_view_role_description">מקש Tab</string>
+    <string name="kde_connect">Cyclop Connect</string>
+    <string name="material_clock_toggle_content_description">יש לבחור ב-AM או ב-PM</string>
+    <string name="material_hour_selection">בחר שעה</string>
+    <string name="material_hour_suffix">השעה %1$s</string>
+    <string name="material_minute_selection">בחר דקות</string>
+    <string name="material_minute_suffix">%1$s דקות</string>
+    <string name="material_timepicker_am">לפנה\"צ</string>
+    <string name="material_timepicker_clock_mode_description">העבר למצב שעון לצורך הזנת השעה</string>
+    <string name="material_timepicker_hour">שעה</string>
+    <string name="material_timepicker_minute">דקה</string>
+    <string name="material_timepicker_pm">אחה\"צ</string>
+    <string name="material_timepicker_select_time">בחר שעה</string>
+    <string name="material_timepicker_text_input_mode_description">העבר למצב קלט טקסט לצורך הזנת השעה</string>
+    <string name="middle_click">שלח לחיצה אמצעית (גלגלת)</string>
+    <string name="mousepad_double_tap_settings_title">הגדר פעולה ללחיצת שתי אצבעות</string>
+    <string name="mousepad_scroll_direction_title">הפוך את כיוון הגלילה</string>
+    <string name="mousepad_sensitivity_settings_title">הגדר רגישות משטח המגע</string>
+    <string name="mousepad_triple_tap_settings_title">הגדר פעולה ללחיצת שלוש אצבעות</string>
+    <string name="mpris_ff">דילוג קדימה</string>
+    <string name="mpris_next">הבא</string>
+    <string name="mpris_play">נגן</string>
+    <string name="mpris_previous">הקודם</string>
+    <string name="mpris_rew">דילוג אחורה</string>
+    <string name="mpris_time_settings_title">כפתור דילוג קדימה או אחורה</string>
+    <string name="mpris_volume">עוצמה</string>
+    <string name="mtrl_badge_numberless_content_description">התראה חדשה</string>
+    <string name="mtrl_chip_close_icon_content_description">הסרה של %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">יותר מ-%1$d התראות חדשות</string>
+    <string name="mtrl_picker_a11y_next_month">מעבר לחודש הבא</string>
+    <string name="mtrl_picker_a11y_prev_month">מעבר לחודש הקודם</string>
+    <string name="mtrl_picker_announce_current_selection">הבחירה הנוכחית: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">יש לבחור תאריך</string>
+    <string name="mtrl_picker_date_header_unselected">התאריך הנבחר</string>
+    <string name="mtrl_picker_day_of_week_column_header">עמודה של ימים: %1$s</string>
+    <string name="mtrl_picker_invalid_format">פורמט לא חוקי.</string>
+    <string name="mtrl_picker_invalid_format_example">דוגמה: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">יש להשתמש בפורמט: %1$s</string>
+    <string name="mtrl_picker_invalid_range">טווח לא חוקי.</string>
+    <string name="mtrl_picker_navigate_to_year_description">ניווט לשנת %1$s</string>
+    <string name="mtrl_picker_out_of_range">מחוץ לטווח: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">תאריך התחלה – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – תאריך סיום</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">יש לבחור טווח</string>
+    <string name="mtrl_picker_range_header_unselected">תאריך התחלה - תאריך סיום</string>
+    <string name="mtrl_picker_save">שמירה</string>
+    <string name="mtrl_picker_text_input_date_hint">תאריך</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">תאריך סיום</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">תאריך התחלה</string>
+    <string name="mtrl_picker_text_input_day_abbr">י</string>
+    <string name="mtrl_picker_text_input_month_abbr">ח</string>
+    <string name="mtrl_picker_text_input_year_abbr">ש</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">החלפה לשיטת קלט של יומן</string>
+    <string name="mtrl_picker_toggle_to_day_selection">יש להקיש כדי להחליף לבחירת יום</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">החלפה לשיטת קלט של טקסט</string>
+    <string name="mtrl_picker_toggle_to_year_selection">יש להקיש כדי להחליף לבחירת שנה</string>
+    <string name="no_file_browser">לא נמצאו מנהלי קבצים מותקנים במכשיר זה.</string>
+    <string name="no_permissions">אתה צריך לתת הרשאות לגישה להתראות</string>
+    <string name="no_players_connected">לא נמצא נגן</string>
+    <string msgid="478774118347071097" name="not_set">"לא מוגדרת"</string>
+    <string name="ok">אישור</string>
+    <string name="open">פתח</string>
+    <string name="open_mousepad">שליטה מרחוק</string>
+    <string name="open_mpris_controls">שליטה על המדיה</string>
+    <string name="open_settings">פתח הגדרות</string>
+    <string name="pair_new_device">התאם התקן חדש</string>
+    <string name="pair_requested">בקשת התאמה</string>
+    <string name="pairing_accept">אשר</string>
+    <string name="pairing_description">התקנים אחרים המריצים Cyclop Connect ברשת הנוכחית צריכים להופיע פה.</string>
+    <string name="pairing_reject">דחה</string>
+    <string name="pairing_request_from">בוקשה התאמה מ־%1s</string>
+    <string name="pairing_title">מכשירי Cyclop Connect</string>
+    <string name="password_toggle_content_description">הצגת סיסמה</string>
+    <string name="plugin_settings_with_name">הגדרות %s</string>
+    <string name="pref_plugin_battery">דיווח סוללה</string>
+    <string name="pref_plugin_battery_desc">מדווח על אחוז הסוללה למחשב</string>
+    <string name="pref_plugin_clipboard">סנכרון לוח העתקה</string>
+    <string name="pref_plugin_clipboard_desc">שתף בין המחשבים את כל מה שמועתק</string>
+    <string name="pref_plugin_mousepad">שליטה מרחוק</string>
+    <string name="pref_plugin_mousepad_desc">השתמש בפלאפון כדי לשלוט בעכבר ובמקלדת של ההתקן המרוחק</string>
+    <string name="pref_plugin_mpris">שליטה במדיה</string>
+    <string name="pref_plugin_mpris_desc">מספק שליטה מרוחקת על נגן המדיה שלך</string>
+    <string name="pref_plugin_notifications">סנכרון התראות</string>
+    <string name="pref_plugin_notifications_desc">הראה את ההתראות מהפלאפון בהתקן אחר</string>
+    <string name="pref_plugin_ping">פינג</string>
+    <string name="pref_plugin_ping_desc">שלח וקבל פינגים</string>
+    <string name="pref_plugin_receive_notifications">קבלת התראות</string>
+    <string name="pref_plugin_receive_notifications_desc">קבל התראות מהתקן אחר והצג אותם במכשיר שלך</string>
+    <string name="pref_plugin_remotekeyboard">קבלת לחיצות מרחוק</string>
+    <string name="pref_plugin_remotekeyboard_desc">קבלת אירועי מקלדת מהתקן מרוחק</string>
+    <string name="pref_plugin_runcommand">הרץ פקודה</string>
+    <string name="pref_plugin_runcommand_desc">הרץ פקודה במחשב מהמכשיר שלך</string>
+    <string name="pref_plugin_sftp">גישה לקבצים</string>
+    <string name="pref_plugin_sftp_desc">אפשר להתקן המרוחק לדפדף בקבצים של הפלאפון מרחוק</string>
+    <string name="pref_plugin_sharereceiver">שתף וקבל קבצים וכתובות</string>
+    <string name="pref_plugin_sharereceiver_desc">שתף וקבל קבצים וכתובת אינטרנט בין התקנים</string>
+    <string name="pref_plugin_telepathy">שליחת הודעת SMS</string>
+    <string name="pref_plugin_telepathy_desc">שלח הודעות מהמחשב שלך</string>
+    <string name="pref_plugin_telephony">התראות טלפוניות</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" הועתק ללוח."</string>
+    <string name="protocol_version_newer">ההתקן משתמש בגרסה חדשה יותר</string>
+    <string name="received_file_text">לחץ כדי לפתוח את \"%1s\"</string>
+    <string name="refresh">רענן</string>
+    <string name="remotekeyboard_connected">חיבור המקדלת המרוחקת פעיל</string>
+    <string name="remotekeyboard_editing_only_title">השתמש במקשים מרוחקים רק בעת עריכה</string>
+    <string name="remotekeyboard_multiple_connections">ישנם כמה מקלדות מרוחקות מחוברות, בחר את ההתקן להגדרה</string>
+    <string name="remotekeyboard_not_connected">אין מקלדת מרוחקת מופעלת, הוסף אחת ל־ Cyclop Connect</string>
+    <string name="request_pairing">בקש התאמה</string>
+    <string name="right_click">שלח לחיצה ימנית</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"חיפוש"</string>
+    <string name="send_files">שלח קובץ</string>
+    <string name="send_ping">שלח פינג</string>
+    <string name="sftp_camera">תמונות מצלמה</string>
+    <string name="sftp_readonly">(לקריאה בלבד)</string>
+    <string name="sftp_sdcard">כרטיס זיכרון</string>
+    <string name="sftp_sdcard_num">כרטיס זיכרון %d</string>
+    <string name="share_destination_customize">שנה תקיית יעד</string>
+    <string name="share_destination_customize_summary_disabled">קבצים שהתקבלו יהיו בהורדות</string>
+    <string name="share_destination_customize_summary_enabled">קבצים יאוכסנו בתיקיה למטה</string>
+    <string name="share_destination_folder_preference">תיקית יעד</string>
+    <string name="share_notification_preference">התראות רועשות</string>
+    <string name="share_notification_preference_summary">רטוט ונגן צליל בעת קבלת קובץ</string>
+    <string name="shareplugin_text_saved">התקבל טקסט, נשמר ללוח העתקה</string>
+    <string name="show_keyboard">הראה מקלדת</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="tap_to_answer">לחץ כדי לענות</string>
+    <string name="title_activity_notification_filter">סנן התראות</string>
+    <string name="unknown_device">התקן לא ידוע</string>
+    <string name="unreachable_description">ההתקן המתואם לא זמין, וודא שהוא מחובר לאותה רשת אליה אתה מחובר.</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"כבוי"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"מופעל"</string>
+</resources>

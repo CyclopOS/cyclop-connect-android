@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="convert_to_mms_after_entries">
+    <item>Yhden viestin jälkeen</item>
+    <item>Kahden viestin jälkeen</item>
+    <item>Kolmen viestin jälkeen</item>
+    <item>Neljän viestin jälkeen</item>
+    <item>Viiden viestin jälkeen</item>
+  </string-array>
+    <string-array name="mousepad_acceleration_profile_entries">
+    <item>Ei kiihdytystä</item>
+    <item>Heikoin</item>
+    <item>Heikompi</item>
+    <item>Keskinkertainen</item>
+    <item>Vahvempi</item>
+    <item>Vahvin</item>
+  </string-array>
+    <string-array name="mousepad_sensitivity_entries">
+    <item>Hitain</item>
+    <item>Hitainta suurempi</item>
+    <item>Oletus</item>
+    <item>Oletusta suurempi</item>
+    <item>Nopein</item>
+  </string-array>
+    <string-array name="mousepad_tap_entries">
+    <item>Oikea napsautus</item>
+    <item>Keskinapsautus</item>
+    <item>Ei toimintoa</item>
+  </string-array>
+    <string-array name="mpris_time_entries">
+    <item>10 sekuntia</item>
+    <item>20 sekuntia</item>
+    <item>30 sekuntia</item>
+    <item>1 minuutti</item>
+    <item>2 minuuttia</item>
+  </string-array>
+    <string-array name="theme_list">
+    <item>Akunsäästäjän asettama</item>
+    <item>Vaalea</item>
+    <item>Tumma</item>
+  </string-array>
+    <string-array name="theme_list_v28">
+    <item>Järjestelmän oletus</item>
+    <item>Vaalea</item>
+    <item>Tumma</item>
+  </string-array>
+    <plurals name="incoming_file_title">
+    <item quantity="one">Vastaanotetaan %1$d tiedosto lähettäjältä %2$s</item>
+    <item quantity="other">Vastaanotetaan %1$d tiedostoa lähettäjältä %2$s</item>
+  </plurals>
+    <plurals name="incoming_files_text">
+    <item quantity="one">Tiedosto: %1s</item>
+    <item quantity="other">(Tiedosto %2$d / %3$d) : %1$s</item>
+  </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d uusi ilmoitus</item>
+    <item quantity="other">%d uutta ilmoitusta</item>
+  </plurals>
+    <plurals name="outgoing_file_title">
+    <item quantity="one">Lähetetään %1$d tiedosto laitteeseen %2$s</item>
+    <item quantity="other">Lähetetään %1$d tiedostoa laitteeseen %2$s</item>
+  </plurals>
+    <plurals name="outgoing_files_text">
+    <item quantity="one">Tiedosto: %1$s</item>
+    <item quantity="other">(Tiedosto %2$d/%3$d) : %1$s</item>
+  </plurals>
+    <plurals name="received_files_fail_title">
+    <item quantity="one">Ei voitu vastaanottaa tiedostoa lähettäjältä %1$s</item>
+    <item quantity="other">Ei voitu vastaanottaa %2$d/%3$d tiedostoa lähettäjältä %1$s</item>
+  </plurals>
+    <plurals name="received_files_title">
+    <item quantity="one">Vastaanotettiin tiedosto lähettäjältä %1$s</item>
+    <item quantity="other">Vastaanotettiin %2$d tiedostoa lähettäjältä %1$s</item>
+  </plurals>
+    <plurals name="send_files_fail_title">
+    <item quantity="one">Tiedoston lähetys laitteelle %1$s epäonnistui</item>
+    <item quantity="other">%2$d/%3$d tiedoston lähetys laitteelle %1$s epäonnistui</item>
+  </plurals>
+    <plurals name="sent_files_title">
+    <item quantity="one">Tiedosto lähetetty laitteeseen %1$s</item>
+    <item quantity="other">%2$d tiedostoa lähetetty laitteeseen %1$s</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Lisäasetukset"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"POIS PÄÄLTÄ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"PÄÄLLÄ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Vaihto+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"välilyönti"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Valikko+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Haku…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Hakukysely"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Jaa…"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Jaa: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Tiivistä"</string>
+    <string name="add_command">Lisää komento</string>
+    <string name="add_command_description">Voit lisätä komentoja työpöydälle</string>
+    <string name="add_device_dialog_title">Lisää laite</string>
+    <string name="add_device_hint">Konenimi tai IP-osoite</string>
+    <string name="add_trusted_network">Lisää %1s</string>
+    <string name="addcommand_explanation">Komentoja ei ole rekisteröity</string>
+    <string name="addcommand_explanation2">Voit lisätä uusia komentoja Cyclop Connectin järjestelmäasetuksissa</string>
+    <string name="all">Kaikki</string>
+    <string name="allow_all_networks_text">Salli kaikki</string>
+    <string name="bigscreen_down">Alemmas</string>
+    <string name="bigscreen_home">Koti</string>
+    <string name="bigscreen_left">Vasemmalle</string>
+    <string name="bigscreen_mic">Mikrofoni</string>
+    <string name="bigscreen_optional_permission_explanation">Jakaaksesi puhelimen mikrofonisyötteen puhelimen äänisyötteeseen on annettava käyttöoikeus</string>
+    <string name="bigscreen_right">Oikea</string>
+    <string name="bigscreen_select">Valitse</string>
+    <string name="bigscreen_speech_extra_prompt">Puhe</string>
+    <string name="bigscreen_up">Ylemmäs</string>
+    <string name="block_contents">Estä ilmoitusten sisältö</string>
+    <string name="block_images">Estä ilmoitusten kuvat</string>
+    <string name="bottomsheet_action_expand_halfway">Laajenna puoliväliin</string>
+    <string name="cancel">Peru</string>
+    <string name="cannot_create_file">Ei voida luoda tiedostoa %s</string>
+    <string name="cant_open_url">Verkko-osoitetta ei voi avata toiston jatkamiseksi</string>
+    <string name="category_connected_devices">Yhdistetyt laitteet</string>
+    <string name="category_not_paired_devices">Saatavilla olevat laitteet</string>
+    <string name="category_remembered_devices">Muistetut laitteet</string>
+    <string name="character_counter_content_description">%1$d/%2$d merkkiä kirjoitettu</string>
+    <string name="character_counter_overflowed_content_description">Merkkiraja ylitetty: %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Tyhjennä teksti</string>
+    <string name="clipboard_android_x_incompat">Android 10 on poistanut kaikkien sovellusten leikepöytäkäytön. Liitännäinen poistetaan käytöstä.</string>
+    <string name="clipboard_toast">Kopioitu leikepöydälle</string>
+    <string name="close">Sulje</string>
+    <string name="contacts_permission_explanation">Käyttääksesi yhteystietoja työpöydältä sinun on annettava yhteystietojen käyttöoikeudet</string>
+    <string name="convert_to_mms_after_title">Muunna multimediaviestiksi</string>
+    <string msgid="3209159573327985035" name="copy">"Kopioi"</string>
+    <string name="copy_url_to_clipboard">Kopioi verkko-osoite leikepöydälle</string>
+    <string name="custom_device_deleted">Poistettiin mukautettu laite</string>
+    <string name="custom_device_fab_hint">Lisää laite</string>
+    <string name="custom_device_list">Lisää laitteita IP:llä</string>
+    <string name="custom_device_list_help">Ellei laitetta tunnisteta automaattisesti, sen IP-osoitteen tai konenimen voi lisätä napsauttamalla kelluvaa toimintopainiketta</string>
+    <string name="custom_devices_settings">Omien laitteiden luettelo</string>
+    <string name="device_icon_description">Laitekuvake</string>
+    <string name="device_list_empty">Ei laitteita</string>
+    <string name="device_menu_plugins">Liitännäisten asetukset</string>
+    <string name="device_menu_unpair">Poista laitepari</string>
+    <string name="device_not_paired">Laitetta ei ole kytketty pariksi</string>
+    <string name="device_rename_confirm">Muuta nimi</string>
+    <string name="device_rename_title">Muuta laitteen nimeä</string>
+    <string name="devices">Laitteet</string>
+    <string name="empty_trusted_networks_list_text">Luotettuja verkkoja ei ole vielä lisätty</string>
+    <string name="encryption_info_msg_no_ssl">Toinen laite ei käytä Cyclop Connectin uudehkoa versiota, joten käytetään vanhaa salausmenetelmää.</string>
+    <string name="encryption_info_title">Salaustiedot</string>
+    <string name="error_already_paired">Laite on jo kytketty pariksi</string>
+    <string name="error_canceled_by_other_peer">Vertaiskäyttäjä perui</string>
+    <string name="error_canceled_by_user">Käyttäjä perui</string>
+    <string name="error_could_not_send_package">Ei voitu lähettää pakettia</string>
+    <string name="error_icon_content_description">Virhe</string>
+    <string name="error_not_reachable">Laite tavoittamattomissa</string>
+    <string name="error_timed_out">Aikakatkaisu</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"Lisäasetukset"</string>
+    <string name="exposed_dropdown_menu_content_description">Näytä avattava valikko</string>
+    <string name="extra_options">Lisäasetukset</string>
+    <string name="filter_apps_info">Valittujen sovellusten ilmoitukset synkronoidaan.</string>
+    <string name="findmyphone_description">Laittaa laitteen soimaan, jotta voit löytää sen.</string>
+    <string name="findmyphone_found">Löytyi</string>
+    <string name="findmyphone_title">Löydä puhelimeni</string>
+    <string name="findmyphone_title_tablet">Löydä tablettini</string>
+    <string name="findmyphone_title_tv">Etsi televeisioni</string>
+    <string name="foreground_notification_devices">Yhdistetty laitteeseen: %s</string>
+    <string name="foreground_notification_no_devices">Ei laiteyhteyttä</string>
+    <string name="foreground_notification_send_clipboard">Lähetä leikepöytä</string>
+    <string name="icon_content_description">Valintaikkunan kuvake</string>
+    <string name="invalid_device_name">Virheellinen laitenimi</string>
+    <string name="item_view_role_description">Välilehti</string>
+    <string name="kde_connect">Cyclop Connect</string>
+    <string name="location_permission_needed_desc">Tunnistaakseen langattoman verkkosi Android vaatii käyttöoikeuden sijaintiin</string>
+    <string name="location_permission_needed_title">Käyttöoikeus vaaditaan</string>
+    <string name="mark_as_read_label">MERKITSE LUETUKSI</string>
+    <string name="material_clock_toggle_content_description">Valitse AP tai IP</string>
+    <string name="material_hour_selection">Valitse tunti</string>
+    <string name="material_hour_suffix">klo %1$s</string>
+    <string name="material_minute_selection">Valitse minuutit</string>
+    <string name="material_minute_suffix">%1$s minuuttia</string>
+    <string name="material_timepicker_am">ap</string>
+    <string name="material_timepicker_clock_mode_description">Vaihda ajan syöttämiseen kellotilassa.</string>
+    <string name="material_timepicker_hour">Tunnit</string>
+    <string name="material_timepicker_minute">Minuutti</string>
+    <string name="material_timepicker_pm">ip</string>
+    <string name="material_timepicker_select_time">Valitse aika</string>
+    <string name="material_timepicker_text_input_mode_description">Vaihda ajan syöttämiseen tekstitilassa.</string>
+    <string name="message_reply_label">VASTAA</string>
+    <string name="middle_click">Lähetä keskipainikkeen napsautus</string>
+    <string name="mousepad_acceleration_profile_settings_title">Aseta osoittimen kiihdytys</string>
+    <string name="mousepad_double_tap_settings_title">Aseta kahden sormen napautuksen toiminto</string>
+    <string name="mousepad_info">Siirrä hiirikohdistinta liikuttamalla sormea näytöllä. Tee hiirenpainallus napauttamalla, ja käytä kahta tai kolmea sormea oikealle ja keskipainikkeelle. Vieritä kahdella sormella. Pitkällä painalluksella voit vetää ja pudottaa.</string>
+    <string name="mousepad_scroll_direction_title">Käänteinen vierityssuunta</string>
+    <string name="mousepad_sensitivity_settings_title">Aseta kosketuslevyn herkkyys</string>
+    <string name="mousepad_triple_tap_settings_title">Aseta kolmen sormen napautuksen toiminto</string>
+    <string name="mpris_coverart_description">Nykyisen median kansikuva</string>
+    <string name="mpris_ff">Pikakelaa</string>
+    <string name="mpris_next">Seuraava</string>
+    <string name="mpris_notification_settings_summary">Sallii mediasoitintesi hallinnan Cyclop Connectia avaamatta</string>
+    <string name="mpris_notification_settings_title">Näytä mediasäädinilmoitukset</string>
+    <string name="mpris_open_url">Jatka toistoa tästä</string>
+    <string name="mpris_pause">Tauko</string>
+    <string name="mpris_play">Toista</string>
+    <string name="mpris_previous">Edellinen</string>
+    <string name="mpris_rew">Kelaa takaisin</string>
+    <string name="mpris_stop">Pysäytä nykyinen soitin</string>
+    <string name="mpris_time_settings_summary">Säädä painettaessa tapahtuvan kelauksen kestoa</string>
+    <string name="mpris_time_settings_title">Kelauspainikkeet</string>
+    <string name="mpris_volume">Äänenvoimakkuus</string>
+    <string name="mtrl_badge_numberless_content_description">Uusi ilmoitus</string>
+    <string name="mtrl_chip_close_icon_content_description">Poista %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Yli %1$d uutta ilmoitusta</string>
+    <string name="mtrl_picker_a11y_next_month">Vaihda seuraavaan kuukauteen</string>
+    <string name="mtrl_picker_a11y_prev_month">Vaihda edelliseen kuukauteen</string>
+    <string name="mtrl_picker_announce_current_selection">Nykyinen valinta: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Valitse päivämäärä</string>
+    <string name="mtrl_picker_date_header_unselected">Valittu päivämäärä</string>
+    <string name="mtrl_picker_day_of_week_column_header">Päiväsarake: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Virheellinen muoto</string>
+    <string name="mtrl_picker_invalid_format_example">Esimerkki: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Käytä muotoa %1$s</string>
+    <string name="mtrl_picker_invalid_range">Virheellinen alue</string>
+    <string name="mtrl_picker_navigate_to_year_description">Siirry vuoteen %1$s</string>
+    <string name="mtrl_picker_out_of_range">Katvealueella: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Alkamispäivä – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – päättymispäivä</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Valitse jakso</string>
+    <string name="mtrl_picker_range_header_unselected">Alkamispäivä – päättymispäivä</string>
+    <string name="mtrl_picker_save">Tallenna</string>
+    <string name="mtrl_picker_text_input_date_hint">Päivämäärä</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Päättymispäivä</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Alkamispäivä</string>
+    <string name="mtrl_picker_text_input_day_abbr">p</string>
+    <string name="mtrl_picker_text_input_month_abbr">k</string>
+    <string name="mtrl_picker_text_input_year_abbr">v</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Vaihda syöttötavaksi kalenteri</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Siirry päivän valintaan napauttamalla</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Valitse syöttötavaksi teksti</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Siirry vuoden valintaan napauttamalla</string>
+    <string name="mute">Vaimenna</string>
+    <string name="no_app_for_opening">Tämän tiedoston avaamiseen sopivaa sovellusta ei löytynyt</string>
+    <string name="no_file_browser">Tiedostoselaimia ei asennettu.</string>
+    <string name="no_permission_mprisreceiver">Hallitaksesi mediasoittimiasi sinun on annettava käyttöoikeudet ilmoituksiin</string>
+    <string name="no_permissions">Ilmoitusten näkemiseksi sinun on annettava käyttöoikeus ilmoituksiin</string>
+    <string name="no_permissions_remotekeyboard">Näppäinpainallusten vastaanottamiseksi Cyclop Connectin etänäppäimistö on aktivoitava</string>
+    <string name="no_players_connected">Soittimia ei löytynyt</string>
+    <string name="no_wifi">Langattomaan verkkoon ei ole yhteyttä, joten laitteita ei ehkä näy. Ota langaton verkko käyttöön napsauttamalla tästä.</string>
+    <string msgid="478774118347071097" name="not_set">"Ei asetettu"</string>
+    <string name="notification_channel_default">Muut ilmoitukset</string>
+    <string name="notification_channel_filetransfer">Tiedostonsiirto</string>
+    <string name="notification_channel_high_priority">Korkea etusija</string>
+    <string name="notification_channel_media_control">Mediaohjaimet</string>
+    <string name="notification_channel_persistent">Pysyvä ilmaisin</string>
+    <string name="notification_channel_receivenotification">Muiden laitteiden ilmoitukset</string>
+    <string name="notification_channel_sms_mms">Uusi viesti</string>
+    <string name="ok">OK</string>
+    <string name="on_non_trusted_message">Ei luotetussa verkossa: automaattihaku on poistettu käytöstä.</string>
+    <string name="open">Avaa</string>
+    <string name="open_mousepad">Kauko-ohjaus</string>
+    <string name="open_mpris_controls">Multimedian ohjaus</string>
+    <string name="open_settings">Avaa asetukset</string>
+    <string name="optional_permission_explanation">Kaikkien toimintojen käyttämiseksi sinun on annettava lisäkäyttöoikeuksia</string>
+    <string name="pair_new_device">Kytke uusi laite pariksi</string>
+    <string name="pair_requested">Paripyyntö</string>
+    <string name="pairing_accept">Hyväksy</string>
+    <string name="pairing_description">Muiden samassa verkossa olevien Cyclop Connectia käyttävien laitteiden pitäisi ilmestyä tähän.</string>
+    <string name="pairing_reject">Hylkää</string>
+    <string name="pairing_request_from">Paripyyntö laitteesta %1s</string>
+    <string name="pairing_title">Cyclop Connect -laitteet</string>
+    <string name="password_toggle_content_description">Näytä salasana</string>
+    <string name="permission_explanation">Liitännäinen tarvitsee toimiakseen lisäkäyttöoikeuksia</string>
+    <string name="plugin_photo_desc">Helpota kuvien ottamista ja siirtämistä käynnistämällä kamerasovellus</string>
+    <string name="plugin_settings_with_name">%s-asetukset</string>
+    <string name="plugins_need_optional_permission">Jotkin liitännäisten ominaisuudet eivät ole käytössä puuttuvien käyttöoikeuksien takia (lisätietoa napsauttamalla):</string>
+    <string name="plugins_need_permission">Jotkin liitännäiset vaativat toimiakseen lisäkäyttöoikeuksia (lisätietoa napsauttamalla):</string>
+    <string name="pref_plugin_battery">Akkuraportti</string>
+    <string name="pref_plugin_battery_desc">Raportoi akun tila säännöllisesti</string>
+    <string name="pref_plugin_bigscreen">Bigscreen-kaukosäädin</string>
+    <string name="pref_plugin_bigscreen_desc">Käytä laitetta Plasma Bigscreen -kaukosäätimenä</string>
+    <string name="pref_plugin_clipboard">Leikepöydän synkronointi</string>
+    <string name="pref_plugin_clipboard_desc">Jaa leikepöydän sisältö</string>
+    <string name="pref_plugin_clipboard_sent">Leikepöytä lähetetty</string>
+    <string name="pref_plugin_contacts">Yhteystietosynkronointi</string>
+    <string name="pref_plugin_contacts_desc">Sallii laitteen yhteystietojen synkronoinnin</string>
+    <string name="pref_plugin_findremotedevice">Etsi etälaite</string>
+    <string name="pref_plugin_findremotedevice_desc">Soita etälaitteeseen</string>
+    <string name="pref_plugin_mousepad">Kauko-ohjaus</string>
+    <string name="pref_plugin_mousepad_desc">Käytä puhelinta tai tablettia hiirenä ja näppäimistönä</string>
+    <string name="pref_plugin_mpris">Multimedian ohjaus</string>
+    <string name="pref_plugin_mpris_desc">Mahdollistaa mediasoittimen etäohjauksen</string>
+    <string name="pref_plugin_mprisreceiver">Mediasoittimen hallinta</string>
+    <string name="pref_plugin_mprisreceiver_desc">Hallitse puhelimesi mediasoittimia toiselta laitteelta</string>
+    <string name="pref_plugin_notifications">Ilmoitusten synkronointi</string>
+    <string name="pref_plugin_notifications_desc">Näe ilmoituksesi muissa laitteissa</string>
+    <string name="pref_plugin_ping">Tiedustelupaketti</string>
+    <string name="pref_plugin_ping_desc">Lähetä ja vastaanota tiedustelupaketteja</string>
+    <string name="pref_plugin_presenter">Etädiaesitys</string>
+    <string name="pref_plugin_presenter_desc">Käytä laitettasi esitysdiojen vaihtamiseen</string>
+    <string name="pref_plugin_receive_notifications">Vastaanota ilmoituksia</string>
+    <string name="pref_plugin_receive_notifications_desc">Vastaanota ilmoituksia toiselta laitteelta ja näytä ne Androidissa</string>
+    <string name="pref_plugin_remotekeyboard">Vastaanota etänäppäinpainallukset</string>
+    <string name="pref_plugin_remotekeyboard_desc">Vastaanottaa etälaitteiden näppäinpainallustapahtumat</string>
+    <string name="pref_plugin_runcommand">Suorita komento</string>
+    <string name="pref_plugin_runcommand_desc">Suorita komentoja etänä puhelimelta tai tabletilta</string>
+    <string name="pref_plugin_sftp">Tiedostojärjestelmän paljastaminen</string>
+    <string name="pref_plugin_sftp_desc">Mahdollistaa tämän laitteen tiedostojärjestelmän etäselaamisen</string>
+    <string name="pref_plugin_sharereceiver">Jako ja vastaanottaminen</string>
+    <string name="pref_plugin_sharereceiver_desc">Jaa tiedostoja ja osoitteita laitteiden välillä</string>
+    <string name="pref_plugin_systemvolume">Järjestelmän äänenvoimakkuus</string>
+    <string name="pref_plugin_systemvolume_desc">Säädä etälaitteen järjestelmän äänenvoimakkuutta</string>
+    <string name="pref_plugin_telepathy">Lähetä tekstiviesti</string>
+    <string name="pref_plugin_telepathy_desc">Lähetä tekstiviestejä työpöydältäsi</string>
+    <string name="pref_plugin_telepathy_mms">Lähetä multimediaviesti</string>
+    <string name="pref_plugin_telepathy_mms_desc">Multimediaviestien lähettämiseksi Cyclop Connect on asetettava oletustekstiviestisovellukseksi.</string>
+    <string name="pref_plugin_telephony">Puhelinilmoitukset</string>
+    <string name="pref_plugin_telephony_desc">Lähetä ilmoitukset saapuvista puheluista</string>
+    <string msgid="7961817945132860002" name="preference_copied">"<ns1:g id="SUMMARY">%1$s</ns1:g> kopioitiin leikepöydälle."</string>
+    <string name="presenter_exit">Poistu esitystilasta</string>
+    <string name="presenter_fullscreen">Koko näyttö</string>
+    <string name="presenter_lock_tip">Laitteen voi lukita ja käyttää äänenvoimakkuuspainikkeita edellinen/seuraava dia -painikkeina</string>
+    <string name="presenter_pointer">Osoitin</string>
+    <string name="privacy_options">Yksityisyysasetukset</string>
+    <string name="protocol_version_newer">Laite käyttää uudempaa yhteyskäytäntöversiota</string>
+    <string name="received_file_text">Avaa ”%1s” napauttamalla</string>
+    <string name="refresh">Päivitä</string>
+    <string name="remote_device_fingerprint">Etälaitteen varmenteen SHA256-sormenjälki on:</string>
+    <string name="remote_keyboard_service">Cyclop Connect -etänäppäimistö</string>
+    <string name="remotekeyboard_connected">Etänäppäimistöyhteys on käytössä</string>
+    <string name="remotekeyboard_editing_only_title">Käsittele etänäppäimet vain muokattaessa</string>
+    <string name="remotekeyboard_multiple_connections">Etänäppäimistöyhteyksiä on useampia: valitse asetettava laite</string>
+    <string name="remotekeyboard_not_connected">Etänäppäimistöyhteyksiä ei ole käytössä: muodosta yhteys Cyclop Connectissa</string>
+    <string name="request_pairing">Pyydä pariksi kytkemistä</string>
+    <string name="right_click">Lähetä oikean painikkeen napsautus</string>
+    <string name="ring">Soita</string>
+    <string name="runcommand_noruncommandplugin">Laitteen Suorita komento -liitännäinen ei ole käytössä</string>
+    <string name="runcommand_nosuchdevice">Tätä laitetta ei ole</string>
+    <string name="runcommand_notpaired">Laitetta ei ole kytketty pariksi</string>
+    <string name="runcommand_notreachable">Laite tavoittamattomissa</string>
+    <string name="sad_ok">OK :(</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Haku"</string>
+    <string name="select_ringtone">Valitse soittoääni</string>
+    <string name="send_files">Lähetä tiedostoja</string>
+    <string name="send_ping">Lähetä tiedustelupaketti</string>
+    <string name="set_default_sms_app_title">Lähetä multimediaviesti</string>
+    <string name="set_group_message_as_mms_title">Lähetä ryhmämultimediaviesti</string>
+    <string name="set_long_text_as_mms_title">Lähetä pitkä teksti multimediaviestinä</string>
+    <string name="set_privacy_options">Aseta yksityisyysasetukset</string>
+    <string name="setting_persistent_notification">Näytä pysyvä ilmoitus</string>
+    <string name="setting_persistent_notification_description">Ota käyttöön tai poista käyttöön napauttamalla ilmoitusasetuksia</string>
+    <string name="setting_persistent_notification_oreo">Pysyvä ilmoitus</string>
+    <string name="settings">Asetukset</string>
+    <string name="settings_dark_mode">Tumma teema</string>
+    <string name="settings_icon_description">Asetuskuvake</string>
+    <string name="settings_more_settings_text">Laitekohtaiset asetukset löytyvät laitteen ”Liitännäisasetuksista”.</string>
+    <string name="settings_more_settings_title">Lisää asetuksia</string>
+    <string name="settings_rename">Laitenimi</string>
+    <string name="sftp_action_mode_menu_delete">Poista</string>
+    <string name="sftp_camera">Kamerakuvat</string>
+    <string name="sftp_no_sdcard_detected">SD-kortteja ei havaittu</string>
+    <string name="sftp_no_storage_locations_configured">Tallennustiloja ei ole asetettu</string>
+    <string name="sftp_preference_add_camera_shortcut">Lisää oikopolku kamerakansioon</string>
+    <string name="sftp_preference_add_camera_shortcut_summary_off">Älä lisää oikopolkua kamerakansioon</string>
+    <string name="sftp_preference_add_camera_shortcut_summary_on">Lisää oikopolku kamerakansioon</string>
+    <string name="sftp_preference_add_storage_location_title">Lisää tallennustila</string>
+    <string name="sftp_preference_configured_storage_locations">Asetetut tallennustilat</string>
+    <string name="sftp_preference_detected_sdcards">Havaitut SD-kortit</string>
+    <string name="sftp_preference_edit_sdcard_title">Muokkaa SD-korttia</string>
+    <string name="sftp_preference_edit_storage_location">Muokkaa tallennustilaa</string>
+    <string name="sftp_readonly">(vain luku)</string>
+    <string name="sftp_saf_permission_explanation">Tallennustilat on asetettava etätiedostojen käyttämiseksi</string>
+    <string name="sftp_sdcard">SD-kortti</string>
+    <string name="sftp_sdcard_num">SD-kortti %d</string>
+    <string name="sftp_storage_preference_click_to_select">valitse napsauttamalla</string>
+    <string name="sftp_storage_preference_display_name">Näyttönimi</string>
+    <string name="sftp_storage_preference_display_name_already_used">Tämä näyttönimi on jo käytössä</string>
+    <string name="sftp_storage_preference_display_name_cannot_be_empty">Näyttönimi ei voi olla tyhjä</string>
+    <string name="sftp_storage_preference_storage_location">Tallennustila</string>
+    <string name="sftp_storage_preference_storage_location_already_configured">Tämä sijainti on jo asetettu</string>
+    <string name="share">Jaa</string>
+    <string name="share_destination_customize">Vaihda kohdekansio</string>
+    <string name="share_destination_customize_summary_disabled">Vastaanotetut tiedostot näkyvät Latauksissa</string>
+    <string name="share_destination_customize_summary_enabled">Tiedostot tallennetaan alla olevaan kansioon</string>
+    <string name="share_destination_folder_preference">Kohdekansio</string>
+    <string name="share_notification_preference">Äänekkäät ilmoitukset</string>
+    <string name="share_notification_preference_summary">Värise ja soita ääni tiedoston saapuessa</string>
+    <string name="share_optional_permission_explanation">Jaettujen tiedostojen vastaanottamiseksi on määritettävä kohdekansio</string>
+    <string name="share_received_file">Jaa ”%s”</string>
+    <string name="share_to">Jaa…</string>
+    <string name="shareplugin_text_saved">Vastaanotettiin tekstiä, tallennettiin leikepöydälle</string>
+    <string name="show_keyboard">Näytä näppäimistö</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="take_picture">Käynnistä kamera</string>
+    <string name="tap_to_answer">Vastaa napauttamalla</string>
+    <string name="tap_to_open">Avaa napauttamalla</string>
+    <string name="telepathy_permission_explanation">Lukeaksesi ja lähettääksesi tekstiviestejä työpöydältä sinun on annettava käyttöoikeudet tekstiviesteihin</string>
+    <string name="telephony_optional_permission_explanation">Puhelimen yhteystietoihin on annettava käyttöoikeudet, jotta voit nähdä yhteystiedoissa nimet puhelinnumerojen sijaan</string>
+    <string name="telephony_permission_explanation">Puhelujen näyttäminen työpöydällä vaatii käyttöoikeuden puhelulokiin ja puhelimen tilaan</string>
+    <string name="telephony_pref_blocked_dialog_desc">Älä näytä soittoja äläkä tekstiviestejä näistä numeroista. Anna numero per rivi.</string>
+    <string name="telephony_pref_blocked_title">Estetyt numerot</string>
+    <string name="theme_dialog_title">Valitse teema</string>
+    <string name="title_activity_notification_filter">Ilmoitussuodatin</string>
+    <string name="trusted_networks">Luotetut verkot</string>
+    <string name="trusted_networks_desc">Rajaa automaattihaku tunnettuihin verkkoihin</string>
+    <string name="undo">Kumoa</string>
+    <string name="unknown_device">Tuntematon laite</string>
+    <string name="unreachable_description">Tämä pariksi kytketty laite ei ole tavoitettavissa. Tarkista, että se on yhteydessä samaan verkkoon.</string>
+    <string name="user_display_name">Sinä</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"POIS KÄYTÖSTÄ"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"KÄYTÖSSÄ"</string>
+</resources>

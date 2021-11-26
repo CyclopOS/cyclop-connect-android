@@ -1,0 +1,4 @@
+#Fri Nov 26 00:39:23 CET 2021
+base.0=/home/rahmonex/git/cyclop-connect-android/build/intermediates/dex/debug/minifyDebugWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

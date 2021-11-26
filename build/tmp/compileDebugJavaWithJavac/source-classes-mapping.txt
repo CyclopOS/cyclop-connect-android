@@ -1,0 +1,550 @@
+com/cyclopos/cyclop_connect/databinding/ActivityRunCommandBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityRunCommandBinding
+org/kde/kdeconnect/MyApplication.java
+ org.kde.kdeconnect.MyApplication
+ org.kde.kdeconnect.MyApplication$1
+ org.kde.kdeconnect.MyApplication$LifecycleObserver
+org/kde/kdeconnect/Plugins/SystemVolumePlugin/Sink.java
+ org.kde.kdeconnect.Plugins.SystemVolumePlugin.Sink
+ org.kde.kdeconnect.Plugins.SystemVolumePlugin.Sink$UpdateListener
+org/kde/kdeconnect/Plugins/SftpPlugin/AndroidSafFileSystemView.java
+ org.kde.kdeconnect.Plugins.SftpPlugin.AndroidSafFileSystemView
+org/kde/kdeconnect/Backends/LoopbackBackend/LoopbackLinkProvider.java
+ org.kde.kdeconnect.Backends.LoopbackBackend.LoopbackLinkProvider
+org/kde/kdeconnect/Helpers/SMSHelper.java
+ org.kde.kdeconnect.Helpers.SMSHelper
+ org.kde.kdeconnect.Helpers.SMSHelper$Address
+ org.kde.kdeconnect.Helpers.SMSHelper$Attachment
+ org.kde.kdeconnect.Helpers.SMSHelper$Message
+ org.kde.kdeconnect.Helpers.SMSHelper$MessageAccessException
+ org.kde.kdeconnect.Helpers.SMSHelper$MessageLooper
+ org.kde.kdeconnect.Helpers.SMSHelper$ThreadID
+ org.kde.kdeconnect.Helpers.SMSHelper$TransportType
+org/kde/kdeconnect/Plugins/SystemVolumePlugin/ItemGapDecoration.java
+ org.kde.kdeconnect.Plugins.SystemVolumePlugin.ItemGapDecoration
+org/kde/kdeconnect/Helpers/SecurityHelpers/SslHelper.java
+ org.kde.kdeconnect.Helpers.SecurityHelpers.SslHelper
+ org.kde.kdeconnect.Helpers.SecurityHelpers.SslHelper$1
+org/kde/kdeconnect/Plugins/SftpPlugin/StoragePreferenceDialogFragment.java
+ org.kde.kdeconnect.Plugins.SftpPlugin.StoragePreferenceDialogFragment
+ org.kde.kdeconnect.Plugins.SftpPlugin.StoragePreferenceDialogFragment$1
+ org.kde.kdeconnect.Plugins.SftpPlugin.StoragePreferenceDialogFragment$Callback
+ org.kde.kdeconnect.Plugins.SftpPlugin.StoragePreferenceDialogFragment$CallbackResult
+ org.kde.kdeconnect.Plugins.SftpPlugin.StoragePreferenceDialogFragment$FileSeparatorCharFilter
+org/kde/kdeconnect/Plugins/SharePlugin/ShareSettingsFragment.java
+ org.kde.kdeconnect.Plugins.SharePlugin.ShareSettingsFragment
+org/kde/kdeconnect/DevicePacketQueue.java
+ org.kde.kdeconnect.DevicePacketQueue
+ org.kde.kdeconnect.DevicePacketQueue$1
+ org.kde.kdeconnect.DevicePacketQueue$Item
+ org.kde.kdeconnect.DevicePacketQueue$SendingThread
+org/kde/kdeconnect/UserInterface/EditTextAlertDialogFragment.java
+ org.kde.kdeconnect.UserInterface.EditTextAlertDialogFragment
+ org.kde.kdeconnect.UserInterface.EditTextAlertDialogFragment$Builder
+org/kde/kdeconnect/UserInterface/List/ListAdapter.java
+ org.kde.kdeconnect.UserInterface.List.ListAdapter
+ org.kde.kdeconnect.UserInterface.List.ListAdapter$Item
+org/kde/kdeconnect/Helpers/IntentHelper.java
+ org.kde.kdeconnect.Helpers.IntentHelper
+com/cyclopos/cyclop_connect/databinding/ListItemCategoryBinding.java
+ com.cyclopos.cyclop_connect.databinding.ListItemCategoryBinding
+org/kde/kdeconnect/Backends/BluetoothBackend/BluetoothPairingHandler.java
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothPairingHandler
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothPairingHandler$1
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothPairingHandler$2
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothPairingHandler$2$1
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothPairingHandler$3
+org/kde/kdeconnect/Plugins/MouseReceiverPlugin/MouseReceiverPlugin.java
+ org.kde.kdeconnect.Plugins.MouseReceiverPlugin.MouseReceiverPlugin
+com/cyclopos/cyclop_connect/databinding/ActivityBigscreenBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityBigscreenBinding
+org/kde/kdeconnect/UserInterface/DefaultSmsAppAlertDialogFragment.java
+ org.kde.kdeconnect.UserInterface.DefaultSmsAppAlertDialogFragment
+ org.kde.kdeconnect.UserInterface.DefaultSmsAppAlertDialogFragment$1
+ org.kde.kdeconnect.UserInterface.DefaultSmsAppAlertDialogFragment$Builder
+org/kde/kdeconnect/Plugins/MprisPlugin/MprisPlugin.java
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisPlugin
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisPlugin$MprisPlayer
+org/kde/kdeconnect/Plugins/FindRemoteDevicePlugin/FindRemoteDevicePlugin.java
+ org.kde.kdeconnect.Plugins.FindRemoteDevicePlugin.FindRemoteDevicePlugin
+org/kde/kdeconnect/Plugins/SystemVolumePlugin/SinkItemCallback.java
+ org.kde.kdeconnect.Plugins.SystemVolumePlugin.SinkItemCallback
+org/kde/kdeconnect/Plugins/MousePadPlugin/KeyInputConnection.java
+ org.kde.kdeconnect.Plugins.MousePadPlugin.KeyInputConnection
+org/kde/kdeconnect/Helpers/AppsHelper.java
+ org.kde.kdeconnect.Helpers.AppsHelper
+com/cyclopos/cyclop_connect/databinding/PairingExplanationTextBinding.java
+ com.cyclopos.cyclop_connect.databinding.PairingExplanationTextBinding
+org/kde/kdeconnect/Plugins/SftpPlugin/AndroidFileSystemFactory.java
+ org.kde.kdeconnect.Plugins.SftpPlugin.AndroidFileSystemFactory
+org/kde/kdeconnect/Helpers/SecurityHelpers/RsaHelper.java
+ org.kde.kdeconnect.Helpers.SecurityHelpers.RsaHelper
+org/kde/kdeconnect/Plugins/SMSPlugin/SmsMmsUtils.java
+ org.kde.kdeconnect.Plugins.SMSPlugin.SmsMmsUtils
+ org.kde.kdeconnect.Plugins.SMSPlugin.SmsMmsUtils$1
+org/kde/kdeconnect/Plugins/SharePlugin/ShareInfo.java
+ org.kde.kdeconnect.Plugins.SharePlugin.ShareInfo
+org/kde/kdeconnect/Plugins/FindMyPhonePlugin/FindMyPhonePlugin.java
+ org.kde.kdeconnect.Plugins.FindMyPhonePlugin.FindMyPhonePlugin
+ org.kde.kdeconnect.Plugins.FindMyPhonePlugin.FindMyPhonePlugin$1
+org/kde/kdeconnect/Plugins/BatteryPlugin/BatteryPlugin.java
+ org.kde.kdeconnect.Plugins.BatteryPlugin.BatteryPlugin
+ org.kde.kdeconnect.Plugins.BatteryPlugin.BatteryPlugin$1
+com/cyclopos/cyclop_connect/databinding/ActivityMprisBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityMprisBinding
+org/kde/kdeconnect/Plugins/MousePadPlugin/MousePadGestureDetector.java
+ org.kde.kdeconnect.Plugins.MousePadPlugin.MousePadGestureDetector
+ org.kde.kdeconnect.Plugins.MousePadPlugin.MousePadGestureDetector$OnGestureListener
+org/kde/kdeconnect/Plugins/SharePlugin/ShareActivity.java
+ org.kde.kdeconnect.Plugins.SharePlugin.ShareActivity
+org/kde/kdeconnect/Plugins/NotificationsPlugin/RepliableNotification.java
+ org.kde.kdeconnect.Plugins.NotificationsPlugin.RepliableNotification
+org/kde/kdeconnect/Plugins/RunCommandPlugin/RunCommandWidgetDataProvider.java
+ org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandWidgetDataProvider
+com/cyclopos/cyclop_connect/databinding/EditTextAlertDialogViewBinding.java
+ com.cyclopos.cyclop_connect.databinding.EditTextAlertDialogViewBinding
+org/kde/kdeconnect/Plugins/MprisReceiverPlugin/MprisReceiverCallback.java
+ org.kde.kdeconnect.Plugins.MprisReceiverPlugin.MprisReceiverCallback
+org/kde/kdeconnect/Plugins/ReceiveNotificationsPlugin/ReceiveNotificationsPlugin.java
+ org.kde.kdeconnect.Plugins.ReceiveNotificationsPlugin.ReceiveNotificationsPlugin
+org/kde/kdeconnect/Plugins/PingPlugin/PingPlugin.java
+ org.kde.kdeconnect.Plugins.PingPlugin.PingPlugin
+org/kde/kdeconnect/Plugins/MousePadPlugin/PointerAccelerationProfile.java
+ org.kde.kdeconnect.Plugins.MousePadPlugin.PointerAccelerationProfile
+ org.kde.kdeconnect.Plugins.MousePadPlugin.PointerAccelerationProfile$MouseDelta
+org/kde/kdeconnect/Plugins/MousePadPlugin/MousePadPlugin.java
+ org.kde.kdeconnect.Plugins.MousePadPlugin.MousePadPlugin
+org/kde/kdeconnect/Plugins/MprisReceiverPlugin/MprisReceiverPlayer.java
+ org.kde.kdeconnect.Plugins.MprisReceiverPlugin.MprisReceiverPlayer
+com/cyclopos/cyclop_connect/databinding/ListItemEntryBinding.java
+ com.cyclopos.cyclop_connect.databinding.ListItemEntryBinding
+org/kde/kdeconnect/UserInterface/PluginSettingsFragment.java
+ org.kde.kdeconnect.UserInterface.PluginSettingsFragment
+org/kde/kdeconnect/Plugins/SharePlugin/ReceiveNotification.java
+ org.kde.kdeconnect.Plugins.SharePlugin.ReceiveNotification
+org/kde/kdeconnect/UserInterface/List/SectionItem.java
+ org.kde.kdeconnect.UserInterface.List.SectionItem
+org/kde/kdeconnect/Helpers/NotificationHelper.java
+ org.kde.kdeconnect.Helpers.NotificationHelper
+ org.kde.kdeconnect.Helpers.NotificationHelper$Channels
+org/kde/kdeconnect/UserInterface/CustomDevicesAdapter.java
+ org.kde.kdeconnect.UserInterface.CustomDevicesAdapter
+ org.kde.kdeconnect.UserInterface.CustomDevicesAdapter$1
+ org.kde.kdeconnect.UserInterface.CustomDevicesAdapter$Callback
+ org.kde.kdeconnect.UserInterface.CustomDevicesAdapter$ItemTouchHelperCallback
+ org.kde.kdeconnect.UserInterface.CustomDevicesAdapter$ItemTouchHelperCallback$Callback
+ org.kde.kdeconnect.UserInterface.CustomDevicesAdapter$SwipeableViewHolder
+ org.kde.kdeconnect.UserInterface.CustomDevicesAdapter$ViewHolder
+org/kde/kdeconnect/UserInterface/ThemeUtil.java
+ org.kde.kdeconnect.UserInterface.ThemeUtil
+com/cyclopos/cyclop_connect/databinding/ActivityCustomDevicesBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityCustomDevicesBinding
+org/kde/kdeconnect/Plugins/MprisPlugin/VolumeKeyListener.java
+ org.kde.kdeconnect.Plugins.MprisPlugin.VolumeKeyListener
+org/kde/kdeconnect/UserInterface/List/PairingDeviceItem.java
+ org.kde.kdeconnect.UserInterface.List.PairingDeviceItem
+ org.kde.kdeconnect.UserInterface.List.PairingDeviceItem$Callback
+org/kde/kdeconnect/Backends/BaseLink.java
+ org.kde.kdeconnect.Backends.BaseLink
+ org.kde.kdeconnect.Backends.BaseLink$PacketReceiver
+org/kde/kdeconnect/UserInterface/SettingsFragment.java
+ org.kde.kdeconnect.UserInterface.SettingsFragment
+ org.kde.kdeconnect.UserInterface.SettingsFragment$LicenseTextSingleton
+org/kde/kdeconnect/Helpers/StorageHelper.java
+ org.kde.kdeconnect.Helpers.StorageHelper
+ org.kde.kdeconnect.Helpers.StorageHelper$StorageInfo
+com/cyclopos/cyclop_connect/databinding/ActivityMainBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityMainBinding
+org/kde/kdeconnect/Plugins/TelephonyPlugin/TelephonyPlugin.java
+ org.kde.kdeconnect.Plugins.TelephonyPlugin.TelephonyPlugin
+ org.kde.kdeconnect.Plugins.TelephonyPlugin.TelephonyPlugin$1
+ org.kde.kdeconnect.Plugins.TelephonyPlugin.TelephonyPlugin$2
+org/kde/kdeconnect/Backends/LanBackend/LanPairingHandler.java
+ org.kde.kdeconnect.Backends.LanBackend.LanPairingHandler
+ org.kde.kdeconnect.Backends.LanBackend.LanPairingHandler$1
+ org.kde.kdeconnect.Backends.LanBackend.LanPairingHandler$2
+ org.kde.kdeconnect.Backends.LanBackend.LanPairingHandler$2$1
+ org.kde.kdeconnect.Backends.LanBackend.LanPairingHandler$3
+org/kde/kdeconnect/Plugins/SftpPlugin/AndroidSshFile.java
+ org.kde.kdeconnect.Plugins.SftpPlugin.AndroidSshFile
+ org.kde.kdeconnect.Plugins.SftpPlugin.AndroidSshFile$1
+org/kde/kdeconnect/Plugins/SftpPlugin/AndroidFileSystemView.java
+ org.kde.kdeconnect.Plugins.SftpPlugin.AndroidFileSystemView
+org/kde/kdeconnect/Plugins/Plugin.java
+ org.kde.kdeconnect.Plugins.Plugin
+com/cyclopos/cyclop_connect/databinding/SystemVolumeFragmentBinding.java
+ com.cyclopos.cyclop_connect.databinding.SystemVolumeFragmentBinding
+org/kde/kdeconnect/Plugins/SystemVolumePlugin/SinkItemHolder.java
+ org.kde.kdeconnect.Plugins.SystemVolumePlugin.SinkItemHolder
+org/kde/kdeconnect/Plugins/SftpPlugin/RootFile.java
+ org.kde.kdeconnect.Plugins.SftpPlugin.RootFile
+com/cyclopos/cyclop_connect/databinding/ActivityPresenterBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityPresenterBinding
+org/kde/kdeconnect/Backends/BluetoothBackend/BluetoothLink.java
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothLink
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothLink$1
+org/kde/kdeconnect/Helpers/MediaStoreHelper.java
+ org.kde.kdeconnect.Helpers.MediaStoreHelper
+com/cyclopos/cyclop_connect/databinding/ActivitySendkeystrokesBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivitySendkeystrokesBinding
+org/kde/kdeconnect/Helpers/TelephonyHelper.java
+ org.kde.kdeconnect.Helpers.TelephonyHelper
+ org.kde.kdeconnect.Helpers.TelephonyHelper$1
+ org.kde.kdeconnect.Helpers.TelephonyHelper$ApnSetting
+ org.kde.kdeconnect.Helpers.TelephonyHelper$ApnSetting$Builder
+ org.kde.kdeconnect.Helpers.TelephonyHelper$LocalPhoneNumber
+ org.kde.kdeconnect.Helpers.TelephonyHelper$SubscriptionCallback
+org/kde/kdeconnect/Plugins/ClibpoardPlugin/ClipboardFloatingActivity.java
+ org.kde.kdeconnect.Plugins.ClibpoardPlugin.ClipboardFloatingActivity
+com/cyclopos/cyclop_connect/databinding/DevicesListBinding.java
+ com.cyclopos.cyclop_connect.databinding.DevicesListBinding
+org/kde/kdeconnect/Plugins/SharePlugin/UploadNotification.java
+ org.kde.kdeconnect.Plugins.SharePlugin.UploadNotification
+org/kde/kdeconnect/Plugins/FindMyPhonePlugin/FindMyPhoneReceiver.java
+ org.kde.kdeconnect.Plugins.FindMyPhonePlugin.FindMyPhoneReceiver
+org/kde/kdeconnect/Plugins/MprisPlugin/MprisMediaNotificationReceiver.java
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisMediaNotificationReceiver
+org/kde/kdeconnect/Plugins/RunCommandPlugin/RunCommandWidgetDataProviderService.java
+ org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandWidgetDataProviderService
+org/kde/kdeconnect/Plugins/MprisPlugin/MprisMediaSession.java
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisMediaSession
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisMediaSession$1
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisMediaSession$2
+org/kde/kdeconnect/Plugins/RunCommandPlugin/CommandEntry.java
+ org.kde.kdeconnect.Plugins.RunCommandPlugin.CommandEntry
+org/kde/kdeconnect/Backends/LanBackend/LanLink.java
+ org.kde.kdeconnect.Backends.LanBackend.LanLink
+ org.kde.kdeconnect.Backends.LanBackend.LanLink$ConnectionStarted
+ org.kde.kdeconnect.Backends.LanBackend.LanLink$LinkDisconnectedCallback
+org/kde/kdeconnect/UserInterface/List/PluginItem.java
+ org.kde.kdeconnect.UserInterface.List.PluginItem
+org/kde/kdeconnect/UserInterface/DeviceSettingsAlertDialogFragment.java
+ org.kde.kdeconnect.UserInterface.DeviceSettingsAlertDialogFragment
+ org.kde.kdeconnect.UserInterface.DeviceSettingsAlertDialogFragment$1
+ org.kde.kdeconnect.UserInterface.DeviceSettingsAlertDialogFragment$Builder
+org/kde/kdeconnect/Plugins/SharePlugin/CompositeReceiveFileJob.java
+ org.kde.kdeconnect.Plugins.SharePlugin.CompositeReceiveFileJob
+org/kde/kdeconnect/KdeConnectBroadcastReceiver.java
+ org.kde.kdeconnect.KdeConnectBroadcastReceiver
+org/kde/kdeconnect/Plugins/PhotoPlugin/PhotoPlugin.java
+ org.kde.kdeconnect.Plugins.PhotoPlugin.PhotoPlugin
+org/kde/kdeconnect/Plugins/RunCommandPlugin/RunCommandUrlActivity.java
+ org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandUrlActivity
+org/kde/kdeconnect/Plugins/MouseReceiverPlugin/MouseReceiverService.java
+ org.kde.kdeconnect.Plugins.MouseReceiverPlugin.MouseReceiverService
+org/kde/kdeconnect/Helpers/FilesHelper.java
+ org.kde.kdeconnect.Helpers.FilesHelper
+org/kde/kdeconnect/UserInterface/AlertDialogFragment.java
+ org.kde.kdeconnect.UserInterface.AlertDialogFragment
+ org.kde.kdeconnect.UserInterface.AlertDialogFragment$AbstractBuilder
+ org.kde.kdeconnect.UserInterface.AlertDialogFragment$Builder
+ org.kde.kdeconnect.UserInterface.AlertDialogFragment$Callback
+org/kde/kdeconnect/UserInterface/PluginSettingsListFragment.java
+ org.kde.kdeconnect.UserInterface.PluginSettingsListFragment
+ org.kde.kdeconnect.UserInterface.PluginSettingsListFragment$1
+com/cyclopos/cyclop_connect/databinding/WidgetRemoteCommandPluginDialogBinding.java
+ com.cyclopos.cyclop_connect.databinding.WidgetRemoteCommandPluginDialogBinding
+org/kde/kdeconnect/Plugins/SftpPlugin/StoragePreference.java
+ org.kde.kdeconnect.Plugins.SftpPlugin.StoragePreference
+ org.kde.kdeconnect.Plugins.SftpPlugin.StoragePreference$OnLongClickListener
+org/kde/kdeconnect/UserInterface/AppCompatPreferenceActivity.java
+ org.kde.kdeconnect.UserInterface.AppCompatPreferenceActivity
+org/kde/kdeconnect/Helpers/DeviceHelper.java
+ org.kde.kdeconnect.Helpers.DeviceHelper
+com/cyclopos/cyclop_connect/BuildConfig.java
+ com.cyclopos.cyclop_connect.BuildConfig
+org/kde/kdeconnect/Plugins/SMSPlugin/MimeType.java
+ org.kde.kdeconnect.Plugins.SMSPlugin.MimeType
+com/cyclopos/cyclop_connect/databinding/MouseReceiverCursorBinding.java
+ com.cyclopos.cyclop_connect.databinding.MouseReceiverCursorBinding
+org/kde/kdeconnect/Helpers/RandomHelper.java
+ org.kde.kdeconnect.Helpers.RandomHelper
+org/kde/kdeconnect/Plugins/FindMyPhonePlugin/FindMyPhoneSettingsFragment.java
+ org.kde.kdeconnect.Plugins.FindMyPhonePlugin.FindMyPhoneSettingsFragment
+org/kde/kdeconnect/Helpers/LongSummaryPreferenceCategory.java
+ org.kde.kdeconnect.Helpers.LongSummaryPreferenceCategory
+org/kde/kdeconnect/Plugins/ConnectivityReportPlugin/SubscriptionState.java
+ org.kde.kdeconnect.Plugins.ConnectivityReportPlugin.SubscriptionState
+com/cyclopos/cyclop_connect/databinding/FragmentStoragePreferenceDialogBinding.java
+ com.cyclopos.cyclop_connect.databinding.FragmentStoragePreferenceDialogBinding
+com/cyclopos/cyclop_connect/databinding/ActivityFindMyPhoneBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityFindMyPhoneBinding
+com/cyclopos/cyclop_connect/databinding/PreferenceWithButtonBinding.java
+ com.cyclopos.cyclop_connect.databinding.PreferenceWithButtonBinding
+org/kde/kdeconnect/Plugins/SftpPlugin/AndroidSafSshFile.java
+ org.kde.kdeconnect.Plugins.SftpPlugin.AndroidSafSshFile
+ org.kde.kdeconnect.Plugins.SftpPlugin.AndroidSafSshFile$1
+ org.kde.kdeconnect.Plugins.SftpPlugin.AndroidSafSshFile$DocumentInfo
+com/cyclopos/cyclop_connect/databinding/ActivityClipboardFloatingBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityClipboardFloatingBinding
+org/kde/kdeconnect/UserInterface/MainActivity.java
+ org.kde.kdeconnect.UserInterface.MainActivity
+org/kde/kdeconnect/Plugins/RunCommandPlugin/RunCommandWidget.java
+ org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandWidget
+org/kde/kdeconnect/Plugins/PresenterPlugin/PresenterPlugin.java
+ org.kde.kdeconnect.Plugins.PresenterPlugin.PresenterPlugin
+com/cyclopos/cyclop_connect/databinding/ActivityNotificationFilterBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityNotificationFilterBinding
+org/kde/kdeconnect/Backends/BluetoothBackend/BluetoothLinkProvider.java
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothLinkProvider
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothLinkProvider$1
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothLinkProvider$ClientConnect
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothLinkProvider$ClientConnect$1
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothLinkProvider$ClientRunnable
+ org.kde.kdeconnect.Backends.BluetoothBackend.BluetoothLinkProvider$ServerRunnable
+org/kde/kdeconnect/Plugins/PresenterPlugin/PresenterActivity.java
+ org.kde.kdeconnect.Plugins.PresenterPlugin.PresenterActivity
+ org.kde.kdeconnect.Plugins.PresenterPlugin.PresenterActivity$1
+com/cyclopos/cyclop_connect/databinding/TrustedNetworkListBinding.java
+ com.cyclopos.cyclop_connect.databinding.TrustedNetworkListBinding
+org/kde/kdeconnect/Plugins/SystemVolumePlugin/SystemVolumePlugin.java
+ org.kde.kdeconnect.Plugins.SystemVolumePlugin.SystemVolumePlugin
+ org.kde.kdeconnect.Plugins.SystemVolumePlugin.SystemVolumePlugin$SinkListener
+org/kde/kdeconnect/Plugins/MprisReceiverPlugin/MprisReceiverPlugin.java
+ org.kde.kdeconnect.Plugins.MprisReceiverPlugin.MprisReceiverPlugin
+ org.kde.kdeconnect.Plugins.MprisReceiverPlugin.MprisReceiverPlugin$1
+ org.kde.kdeconnect.Plugins.MprisReceiverPlugin.MprisReceiverPlugin$MediaSessionChangeListener
+org/kde/kdeconnect/Plugins/SftpPlugin/SftpPlugin.java
+ org.kde.kdeconnect.Plugins.SftpPlugin.SftpPlugin
+ org.kde.kdeconnect.Plugins.SftpPlugin.SftpPlugin$StorageInfo
+org/kde/kdeconnect/UserInterface/List/SmallEntryItem.java
+ org.kde.kdeconnect.UserInterface.List.SmallEntryItem
+org/kde/kdeconnect/Backends/LoopbackBackend/LoopbackLink.java
+ org.kde.kdeconnect.Backends.LoopbackBackend.LoopbackLink
+com/cyclopos/cyclop_connect/databinding/WidgetRemotecommandpluginBinding.java
+ com.cyclopos.cyclop_connect.databinding.WidgetRemotecommandpluginBinding
+org/kde/kdeconnect/UserInterface/DeviceFragment.java
+ org.kde.kdeconnect.UserInterface.DeviceFragment
+ org.kde.kdeconnect.UserInterface.DeviceFragment$1
+ org.kde.kdeconnect.UserInterface.DeviceFragment$2
+org/kde/kdeconnect/UserInterface/PluginSettingsActivity.java
+ org.kde.kdeconnect.UserInterface.PluginSettingsActivity
+org/kde/kdeconnect/Plugins/SharePlugin/SendFileActivity.java
+ org.kde.kdeconnect.Plugins.SharePlugin.SendFileActivity
+org/kde/kdeconnect/Helpers/TrustedNetworkHelper.java
+ org.kde.kdeconnect.Helpers.TrustedNetworkHelper
+org/kde/kdeconnect/Plugins/PluginFactory.java
+ org.kde.kdeconnect.Plugins.PluginFactory
+ org.kde.kdeconnect.Plugins.PluginFactory$LoadablePlugin
+ org.kde.kdeconnect.Plugins.PluginFactory$PluginInfo
+org/kde/kdeconnect/Plugins/ClibpoardPlugin/ClipboardListener.java
+ org.kde.kdeconnect.Plugins.ClibpoardPlugin.ClipboardListener
+ org.kde.kdeconnect.Plugins.ClibpoardPlugin.ClipboardListener$ClipboardObserver
+org/kde/kdeconnect/Plugins/ContactsPlugin/ContactsPlugin.java
+ org.kde.kdeconnect.Plugins.ContactsPlugin.ContactsPlugin
+org/kde/kdeconnect/Plugins/RemoteKeyboardPlugin/RemoteKeyboardPlugin.java
+ org.kde.kdeconnect.Plugins.RemoteKeyboardPlugin.RemoteKeyboardPlugin
+org/kde/kdeconnect/Plugins/NotificationsPlugin/NotificationFilterActivity.java
+ org.kde.kdeconnect.Plugins.NotificationsPlugin.NotificationFilterActivity
+ org.kde.kdeconnect.Plugins.NotificationsPlugin.NotificationFilterActivity$AppListAdapter
+ org.kde.kdeconnect.Plugins.NotificationsPlugin.NotificationFilterActivity$AppListInfo
+org/kde/kdeconnect/Plugins/MousePadPlugin/KeyListenerView.java
+ org.kde.kdeconnect.Plugins.MousePadPlugin.KeyListenerView
+org/kde/kdeconnect/Plugins/SharePlugin/ShareChooserTargetService.java
+ org.kde.kdeconnect.Plugins.SharePlugin.ShareChooserTargetService
+com/cyclopos/cyclop_connect/databinding/ToolbarBinding.java
+ com.cyclopos.cyclop_connect.databinding.ToolbarBinding
+com/cyclopos/cyclop_connect/databinding/PairingExplanationTextNoWifiBinding.java
+ com.cyclopos.cyclop_connect.databinding.PairingExplanationTextNoWifiBinding
+org/kde/kdeconnect/Plugins/RunCommandPlugin/RunCommandWidgetDeviceSelector.java
+ org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandWidgetDeviceSelector
+com/cyclopos/cyclop_connect/databinding/NavHeaderBinding.java
+ com.cyclopos.cyclop_connect.databinding.NavHeaderBinding
+org/kde/kdeconnect/Plugins/SharePlugin/SharePlugin.java
+ org.kde.kdeconnect.Plugins.SharePlugin.SharePlugin
+ org.kde.kdeconnect.Plugins.SharePlugin.SharePlugin$1
+ org.kde.kdeconnect.Plugins.SharePlugin.SharePlugin$Callback
+com/cyclopos/cyclop_connect/databinding/ListItemWithIconEntryBinding.java
+ com.cyclopos.cyclop_connect.databinding.ListItemWithIconEntryBinding
+org/kde/kdeconnect/Plugins/SMSPlugin/SMSPlugin.java
+ org.kde.kdeconnect.Plugins.SMSPlugin.SMSPlugin
+ org.kde.kdeconnect.Plugins.SMSPlugin.SMSPlugin$1
+ org.kde.kdeconnect.Plugins.SMSPlugin.SMSPlugin$2
+ org.kde.kdeconnect.Plugins.SMSPlugin.SMSPlugin$MessageContentObserver
+org/kde/kdeconnect/Backends/LoopbackBackend/LoopbackPairingHandler.java
+ org.kde.kdeconnect.Backends.LoopbackBackend.LoopbackPairingHandler
+org/kde/kdeconnect/NetworkPacket.java
+ org.kde.kdeconnect.NetworkPacket
+ org.kde.kdeconnect.NetworkPacket$1
+ org.kde.kdeconnect.NetworkPacket$Payload
+org/kde/kdeconnect/Plugins/RemoteKeyboardPlugin/RemoteKeyboardService.java
+ org.kde.kdeconnect.Plugins.RemoteKeyboardPlugin.RemoteKeyboardService
+org/kde/kdeconnect/UserInterface/StartActivityAlertDialogFragment.java
+ org.kde.kdeconnect.UserInterface.StartActivityAlertDialogFragment
+ org.kde.kdeconnect.UserInterface.StartActivityAlertDialogFragment$1
+ org.kde.kdeconnect.UserInterface.StartActivityAlertDialogFragment$Builder
+org/kde/kdeconnect/Helpers/SafeTextChecker.java
+ org.kde.kdeconnect.Helpers.SafeTextChecker
+com/cyclopos/cyclop_connect/databinding/PrivacyOptionsBinding.java
+ com.cyclopos.cyclop_connect.databinding.PrivacyOptionsBinding
+org/kde/kdeconnect/Plugins/NotificationsPlugin/NotificationsPlugin.java
+ org.kde.kdeconnect.Plugins.NotificationsPlugin.NotificationsPlugin
+org/kde/kdeconnect/Plugins/ClibpoardPlugin/ClipboardPlugin.java
+ org.kde.kdeconnect.Plugins.ClibpoardPlugin.ClipboardPlugin
+org/kde/kdeconnect/Backends/BasePairingHandler.java
+ org.kde.kdeconnect.Backends.BasePairingHandler
+ org.kde.kdeconnect.Backends.BasePairingHandler$PairStatus
+ org.kde.kdeconnect.Backends.BasePairingHandler$PairingHandlerCallback
+org/kde/kdeconnect/Plugins/SftpPlugin/SftpSettingsFragment.java
+ org.kde.kdeconnect.Plugins.SftpPlugin.SftpSettingsFragment
+org/kde/kdeconnect/Plugins/ConnectivityReportPlugin/ASUUtils.java
+ org.kde.kdeconnect.Plugins.ConnectivityReportPlugin.ASUUtils
+com/cyclopos/cyclop_connect/databinding/ActivityShareBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityShareBinding
+org/kde/kdeconnect/UserInterface/List/EntryItemWithIcon.java
+ org.kde.kdeconnect.UserInterface.List.EntryItemWithIcon
+com/cyclopos/cyclop_connect/databinding/PairingExplanationNotTrustedBinding.java
+ com.cyclopos.cyclop_connect.databinding.PairingExplanationNotTrustedBinding
+com/cyclopos/cyclop_connect/databinding/MprisControlBinding.java
+ com.cyclopos.cyclop_connect.databinding.MprisControlBinding
+org/kde/kdeconnect/Plugins/FindMyPhonePlugin/FindMyPhoneActivity.java
+ org.kde.kdeconnect.Plugins.FindMyPhonePlugin.FindMyPhoneActivity
+com/cyclopos/cyclop_connect/databinding/ActivityDeviceBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityDeviceBinding
+org/kde/kdeconnect/UserInterface/List/PluginListHeaderItem.java
+ org.kde.kdeconnect.UserInterface.List.PluginListHeaderItem
+org/kde/kdeconnect/Device.java
+ org.kde.kdeconnect.Device
+ org.kde.kdeconnect.Device$1
+ org.kde.kdeconnect.Device$2
+ org.kde.kdeconnect.Device$3
+ org.kde.kdeconnect.Device$DeviceType
+ org.kde.kdeconnect.Device$PairStatus
+ org.kde.kdeconnect.Device$PairingCallback
+ org.kde.kdeconnect.Device$PluginsChangedListener
+ org.kde.kdeconnect.Device$SendPacketStatusCallback
+org/kde/kdeconnect/Plugins/MousePadPlugin/PointerAccelerationProfileFactory.java
+ org.kde.kdeconnect.Plugins.MousePadPlugin.PointerAccelerationProfileFactory
+ org.kde.kdeconnect.Plugins.MousePadPlugin.PointerAccelerationProfileFactory$1
+ org.kde.kdeconnect.Plugins.MousePadPlugin.PointerAccelerationProfileFactory$DefaultProfile
+ org.kde.kdeconnect.Plugins.MousePadPlugin.PointerAccelerationProfileFactory$PolynomialProfile
+ org.kde.kdeconnect.Plugins.MousePadPlugin.PointerAccelerationProfileFactory$PowerProfile
+ org.kde.kdeconnect.Plugins.MousePadPlugin.PointerAccelerationProfileFactory$SpeedBasedAccelerationProfile
+ org.kde.kdeconnect.Plugins.MousePadPlugin.PointerAccelerationProfileFactory$SpeedBasedAccelerationProfile$TouchDeltaEvent
+org/kde/kdeconnect/UserInterface/PermissionsAlertDialogFragment.java
+ org.kde.kdeconnect.UserInterface.PermissionsAlertDialogFragment
+ org.kde.kdeconnect.UserInterface.PermissionsAlertDialogFragment$1
+ org.kde.kdeconnect.UserInterface.PermissionsAlertDialogFragment$Builder
+org/kde/kdeconnect/UserInterface/CustomDevicesActivity.java
+ org.kde.kdeconnect.UserInterface.CustomDevicesActivity
+ org.kde.kdeconnect.UserInterface.CustomDevicesActivity$1
+ org.kde.kdeconnect.UserInterface.CustomDevicesActivity$AddDeviceDialogCallback
+ org.kde.kdeconnect.UserInterface.CustomDevicesActivity$DeletedCustomDevice
+org/kde/kdeconnect/Plugins/NotificationsPlugin/AppDatabase.java
+ org.kde.kdeconnect.Plugins.NotificationsPlugin.AppDatabase
+ org.kde.kdeconnect.Plugins.NotificationsPlugin.AppDatabase$DbHelper
+ org.kde.kdeconnect.Plugins.NotificationsPlugin.AppDatabase$PrivacyOptions
+com/cyclopos/cyclop_connect/databinding/CustomDeviceItemBinding.java
+ com.cyclopos.cyclop_connect.databinding.CustomDeviceItemBinding
+org/kde/kdeconnect/Backends/LanBackend/LanLinkProvider.java
+ org.kde.kdeconnect.Backends.LanBackend.LanLinkProvider
+ org.kde.kdeconnect.Backends.LanBackend.LanLinkProvider$1
+org/kde/kdeconnect/UserInterface/PluginPreference.java
+ org.kde.kdeconnect.UserInterface.PluginPreference
+ org.kde.kdeconnect.UserInterface.PluginPreference$PluginPreferenceCallback
+org/kde/kdeconnect/Plugins/PhotoPlugin/PhotoActivity.java
+ org.kde.kdeconnect.Plugins.PhotoPlugin.PhotoActivity
+org/kde/kdeconnect/Plugins/SystemVolumePlugin/SystemVolumeFragment.java
+ org.kde.kdeconnect.Plugins.SystemVolumePlugin.SystemVolumeFragment
+ org.kde.kdeconnect.Plugins.SystemVolumePlugin.SystemVolumeFragment$RecyclerSinkAdapter
+org/kde/kdeconnect/Backends/BaseLinkProvider.java
+ org.kde.kdeconnect.Backends.BaseLinkProvider
+ org.kde.kdeconnect.Backends.BaseLinkProvider$ConnectionReceiver
+org/kde/kdeconnect/BackgroundService.java
+ org.kde.kdeconnect.BackgroundService
+ org.kde.kdeconnect.BackgroundService$1
+ org.kde.kdeconnect.BackgroundService$2
+ org.kde.kdeconnect.BackgroundService$DeviceListChangedCallback
+ org.kde.kdeconnect.BackgroundService$InstanceCallback
+ org.kde.kdeconnect.BackgroundService$PluginCallback
+com/cyclopos/cyclop_connect/databinding/ActivityPluginSettingsBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityPluginSettingsBinding
+org/kde/kdeconnect/Plugins/SharePlugin/ShareBroadcastReceiver.java
+ org.kde.kdeconnect.Plugins.SharePlugin.ShareBroadcastReceiver
+org/kde/kdeconnect/Plugins/RunCommandPlugin/RunCommandActivity.java
+ org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandActivity
+org/kde/kdeconnect/UserInterface/PairingFragment.java
+ org.kde.kdeconnect.UserInterface.PairingFragment
+ org.kde.kdeconnect.UserInterface.PairingFragment$1
+org/kde/kdeconnect/Plugins/ConnectivityReportPlugin/ConnectivityReportPlugin.java
+ org.kde.kdeconnect.Plugins.ConnectivityReportPlugin.ConnectivityReportPlugin
+ org.kde.kdeconnect.Plugins.ConnectivityReportPlugin.ConnectivityReportPlugin$1
+org/kde/kdeconnect/Plugins/MprisPlugin/MprisActivity.java
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisActivity
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisActivity$MprisPagerAdapter
+org/kde/kdeconnect/Helpers/ContactsHelper.java
+ org.kde.kdeconnect.Helpers.ContactsHelper
+ org.kde.kdeconnect.Helpers.ContactsHelper$ContactNotFoundException
+ org.kde.kdeconnect.Helpers.ContactsHelper$VCardBuilder
+ org.kde.kdeconnect.Helpers.ContactsHelper$uID
+org/kde/kdeconnect/Plugins/SftpPlugin/SimpleSftpServer.java
+ org.kde.kdeconnect.Plugins.SftpPlugin.SimpleSftpServer
+ org.kde.kdeconnect.Plugins.SftpPlugin.SimpleSftpServer$1
+ org.kde.kdeconnect.Plugins.SftpPlugin.SimpleSftpServer$SimplePasswordAuthenticator
+ org.kde.kdeconnect.Plugins.SftpPlugin.SimpleSftpServer$SimplePublicKeyAuthenticator
+org/kde/kdeconnect/UserInterface/List/FailedPluginListItem.java
+ org.kde.kdeconnect.UserInterface.List.FailedPluginListItem
+ org.kde.kdeconnect.UserInterface.List.FailedPluginListItem$Action
+org/kde/kdeconnect/UserInterface/List/SetDefaultAppPluginListItem.java
+ org.kde.kdeconnect.UserInterface.List.SetDefaultAppPluginListItem
+ org.kde.kdeconnect.UserInterface.List.SetDefaultAppPluginListItem$Action
+com/cyclopos/cyclop_connect/databinding/ActivityMousepadBinding.java
+ com.cyclopos.cyclop_connect.databinding.ActivityMousepadBinding
+org/kde/kdeconnect/UserInterface/List/EntryItem.java
+ org.kde.kdeconnect.UserInterface.List.EntryItem
+org/kde/kdeconnect/async/BackgroundJobHandler.java
+ org.kde.kdeconnect.async.BackgroundJobHandler
+ org.kde.kdeconnect.async.BackgroundJobHandler$MyThreadPoolExecutor
+org/kde/kdeconnect/Plugins/MousePadPlugin/SendKeystrokesToHostActivity.java
+ org.kde.kdeconnect.Plugins.MousePadPlugin.SendKeystrokesToHostActivity
+org/kde/kdeconnect/async/BackgroundJob.java
+ org.kde.kdeconnect.async.BackgroundJob
+ org.kde.kdeconnect.async.BackgroundJob$Callback
+org/kde/kdeconnect/Plugins/NotificationsPlugin/NotificationReceiver.java
+ org.kde.kdeconnect.Plugins.NotificationsPlugin.NotificationReceiver
+ org.kde.kdeconnect.Plugins.NotificationsPlugin.NotificationReceiver$InstanceCallback
+ org.kde.kdeconnect.Plugins.NotificationsPlugin.NotificationReceiver$NotificationListener
+org/kde/kdeconnect/Plugins/RunCommandPlugin/RunCommandPlugin.java
+ org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandPlugin
+ org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandPlugin$CommandsChangedCallback
+com/cyclopos/cyclop_connect/databinding/MprisNowPlayingBinding.java
+ com.cyclopos.cyclop_connect.databinding.MprisNowPlayingBinding
+org/kde/kdeconnect/Plugins/BigscreenPlugin/BigscreenActivity.java
+ org.kde.kdeconnect.Plugins.BigscreenPlugin.BigscreenActivity
+org/kde/kdeconnect/UserInterface/TrustedNetworksActivity.java
+ org.kde.kdeconnect.UserInterface.TrustedNetworksActivity
+com/cyclopos/cyclop_connect/databinding/PopupNotificationsfilterBinding.java
+ com.cyclopos.cyclop_connect.databinding.PopupNotificationsfilterBinding
+org/kde/kdeconnect/Plugins/MprisPlugin/ExtendedFragmentAdapter.java
+ org.kde.kdeconnect.Plugins.MprisPlugin.ExtendedFragmentAdapter
+com/cyclopos/cyclop_connect/databinding/ListItemSystemvolumeBinding.java
+ com.cyclopos.cyclop_connect.databinding.ListItemSystemvolumeBinding
+org/kde/kdeconnect/Helpers/VideoUrlsHelper.java
+ org.kde.kdeconnect.Helpers.VideoUrlsHelper
+org/kde/kdeconnect/Plugins/SharePlugin/CompositeUploadFileJob.java
+ org.kde.kdeconnect.Plugins.SharePlugin.CompositeUploadFileJob
+ org.kde.kdeconnect.Plugins.SharePlugin.CompositeUploadFileJob$1
+ org.kde.kdeconnect.Plugins.SharePlugin.CompositeUploadFileJob$SendPacketStatusCallback
+com/cyclopos/cyclop_connect/databinding/ListItemPluginHeaderBinding.java
+ com.cyclopos.cyclop_connect.databinding.ListItemPluginHeaderBinding
+org/kde/kdeconnect/Plugins/MousePadPlugin/MousePadActivity.java
+ org.kde.kdeconnect.Plugins.MousePadPlugin.MousePadActivity
+ org.kde.kdeconnect.Plugins.MousePadPlugin.MousePadActivity$1
+ org.kde.kdeconnect.Plugins.MousePadPlugin.MousePadActivity$ClickType
+org/kde/kdeconnect/Plugins/MprisPlugin/MprisNowPlayingFragment.java
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisNowPlayingFragment
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisNowPlayingFragment$1
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisNowPlayingFragment$2
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisNowPlayingFragment$3
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisNowPlayingFragment$4
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisNowPlayingFragment$5
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisNowPlayingFragment$5$1
+ org.kde.kdeconnect.Plugins.MprisPlugin.MprisNowPlayingFragment$MprisPlayerCallback
+org/kde/kdeconnect/Plugins/BigscreenPlugin/BigscreenPlugin.java
+ org.kde.kdeconnect.Plugins.BigscreenPlugin.BigscreenPlugin
+org/kde/kdeconnect/Backends/BluetoothBackend/ConnectionMultiplexer.java
+ org.kde.kdeconnect.Backends.BluetoothBackend.ConnectionMultiplexer
+ org.kde.kdeconnect.Backends.BluetoothBackend.ConnectionMultiplexer$Channel
+ org.kde.kdeconnect.Backends.BluetoothBackend.ConnectionMultiplexer$ChannelInputStream
+ org.kde.kdeconnect.Backends.BluetoothBackend.ConnectionMultiplexer$ChannelOutputStream
+ org.kde.kdeconnect.Backends.BluetoothBackend.ConnectionMultiplexer$ListenThread

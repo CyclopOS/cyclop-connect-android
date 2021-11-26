@@ -1,0 +1,802 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:2:1-374:12
+INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:2:1-374:12
+INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:2:1-374:12
+INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:2:1-374:12
+MERGED from [androidx.databinding:viewbinding:4.2.1] /home/rahmonex/.gradle/caches/transforms-3/89dad3bc4086717a8668ef9e3d1a7f2a/transformed/jetified-viewbinding-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/rahmonex/.gradle/caches/transforms-3/60a9a2b8cfa8054979ca63e9f3b13521/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.3.1] /home/rahmonex/.gradle/caches/transforms-3/22acd79fd8a5bf6101b899e27b0f7fcb/transformed/media-1.3.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.preference:preference:1.1.1] /home/rahmonex/.gradle/caches/transforms-3/962fac657e2dd90cae3a6c1d70c2bd90/transformed/preference-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /home/rahmonex/.gradle/caches/transforms-3/06382075b64e17d6d40177057e134f6f/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rahmonex/.gradle/caches/transforms-3/28dda2b2b8c1035eb0eacb551ace1200/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/rahmonex/.gradle/caches/transforms-3/6eca83df6bb34f225b2edee65810c91f/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/rahmonex/.gradle/caches/transforms-3/72cc7099ef1300188a96cd8dc39f4978/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/ad7df60a453f71045fe339aca8d9efed/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /home/rahmonex/.gradle/caches/transforms-3/638e4babc70266ca66d7f2a38dacaa5f/transformed/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/ea14d5dd48d71f28c9d22a4e8ea2f303/transformed/gridlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/ca085cae6e611f0c121ea32979e3b987/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/4d207b74ce6be2193f8e6621e3bf9922/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/41aef45dbd0dab17c113efae18203740/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/342dc6329847f816ed049ccbb5f9088a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] /home/rahmonex/.gradle/caches/transforms-3/570dc36e1da884695c53f686381c7368/transformed/documentfile-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/68343d46ab295503c6b92bbb4220bcf7/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/rahmonex/.gradle/caches/transforms-3/d93bd429089027f675ccdde6f3b61bf8/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/d9778a01aa80b66a45d4c98c8117c33f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.4] /home/rahmonex/.gradle/caches/transforms-3/48e51d4aac3a4e467eca0d346656c229/transformed/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/ae8f7fea06a8eebaa5a6f66fe836f23c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/db9fc0c45594120a2911ec1eb9a82513/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/aec8a4824f21c45f96066564731eef14/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/1d9969bd3419ce582d552bc7b667ebe9/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/rahmonex/.gradle/caches/transforms-3/580a9a0be837b2212d6fb1c47e1144de/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/22bd90f0e9e518c4ea0b31e227f8843d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/46609969640c6d149de81701e0dc1888/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/e7e68554738a391fb622b015af9e3aeb/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/978da2ecc9bc974850d519c51d828cc5/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/80873fed3be752f902236969a16f0a27/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/rahmonex/.gradle/caches/transforms-3/e3411511c1430ded982ba1033f0ad0d3/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/a50a668e72ee6df4edd84352b0860f92/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/3b57d670b50533b9e3a32293347645bf/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/rahmonex/.gradle/caches/transforms-3/a20b96900f1c9a57c6443e4b35823817/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jaredrummler:android-device-names:1.1.9] /home/rahmonex/.gradle/caches/transforms-3/2ca70c4dd62d2089e8669f9b2401610c/transformed/jetified-android-device-names-1.1.9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/6380d788f49986c262c7f5b7d93125a5/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/5dfc534db3fb6b44129c08ae5650272d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/86a37372874d5543bb751713faa2af2b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/9a125ad53e64015a8609155681611e29/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/b2c632d2925f745e33d239ab5d81cffe/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/6fb221cd742e7d316b7554fee41a200a/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/rahmonex/.gradle/caches/transforms-3/7b6476859b133db065b4a3e72bba3956/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/40b420a5f1f024479906fbac3d2028d2/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/c8333c86031716e82aa8ee73f2bd37c7/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/fc71243843ff0ea46ff1d903cad445dd/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/44a6561c71d76c573b04f07e3232dce0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/b1d55442f089dc4f8572d91344d49793/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/e70d998122ae24daba08e744a5fc91b8/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:2:1-374:12
+INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:2:1-374:12
+INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:2:1-374:12
+	package
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:4:5-42
+		INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+		INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:6:5-33
+		INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+		INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:5:5-32
+		INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+		INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+supports-screens
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:8:5-13:40
+	android:largeScreens
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:10:9-36
+	android:smallScreens
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:11:9-37
+	android:xlargeScreens
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:13:9-37
+	android:anyDensity
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:9:9-34
+uses-feature#android.hardware.telephony
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:16:9-50
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:19:22-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:21:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:26:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:27:5-86
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:27:22-83
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:28:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:29:5-72
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:29:22-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:30:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:31:5-66
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:31:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:32:5-81
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:32:22-78
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:33:5-88
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:33:22-85
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:34:5-77
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:34:22-74
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:35:5-72
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:35:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:36:5-67
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:36:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:37:5-67
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:37:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:38:5-70
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:38:22-67
+uses-permission#android.permission.RECEIVE_MMS
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:39:5-70
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:39:22-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:40:5-68
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:40:22-65
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:41:5-83
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:41:22-80
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:42:5-81
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:42:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:43:5-79
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:43:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:44:5-71
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:44:22-68
+application
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:48:5-372:19
+MERGED from [com.google.android.material:material:1.3.0] /home/rahmonex/.gradle/caches/transforms-3/06382075b64e17d6d40177057e134f6f/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /home/rahmonex/.gradle/caches/transforms-3/06382075b64e17d6d40177057e134f6f/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rahmonex/.gradle/caches/transforms-3/28dda2b2b8c1035eb0eacb551ace1200/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rahmonex/.gradle/caches/transforms-3/28dda2b2b8c1035eb0eacb551ace1200/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/68343d46ab295503c6b92bbb4220bcf7/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/68343d46ab295503c6b92bbb4220bcf7/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.2] /home/rahmonex/.gradle/caches/transforms-3/e3411511c1430ded982ba1033f0ad0d3/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/rahmonex/.gradle/caches/transforms-3/e3411511c1430ded982ba1033f0ad0d3/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/a50a668e72ee6df4edd84352b0860f92/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/a50a668e72ee6df4edd84352b0860f92/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:9:5-20:19
+MERGED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:9:5-20:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/6380d788f49986c262c7f5b7d93125a5/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/6380d788f49986c262c7f5b7d93125a5/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /home/rahmonex/.gradle/caches/transforms-3/e3411511c1430ded982ba1033f0ad0d3/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:52:9-35
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:51:9-39
+	android:roundIcon
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:50:9-54
+	android:icon
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:49:9-43
+	android:allowBackup
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:53:9-36
+	android:theme
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:55:9-59
+	android:networkSecurityConfig
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:54:9-69
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:56:9-56
+receiver#com.android.mms.transaction.PushReceiver
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:58:9-67:20
+	android:exported
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:60:13-36
+	android:permission
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:61:13-71
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:59:13-68
+intent-filter#action:name:android.provider.Telephony.WAP_PUSH_DELIVER+data:mimeType:application/vnd.wap.mms-message
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:62:13-66:29
+action#android.provider.Telephony.WAP_PUSH_DELIVER
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:63:17-86
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:63:25-83
+data
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:65:17-76
+	android:path
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:139:21-37
+	android:host
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:138:21-49
+	android:scheme
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:140:21-45
+	android:mimeType
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:65:23-73
+service#com.android.mms.transaction.TransactionService
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:69:9-72:39
+	android:enabled
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:71:13-35
+	android:exported
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:72:13-36
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:70:13-74
+service#org.kde.kdeconnect.BackgroundService
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:74:9-78:38
+	android:enabled
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:78:13-35
+	android:icon
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:77:13-47
+	android:foregroundServiceType
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:76:13-60
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:75:13-64
+service#org.kde.kdeconnect.Plugins.RemoteKeyboardPlugin.RemoteKeyboardService
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:79:9-90:19
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:81:13-60
+	android:permission
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:82:13-70
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:80:13-97
+intent-filter#action:name:android.view.InputMethod
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:83:13-85:29
+action#android.view.InputMethod
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:84:17-67
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:84:25-64
+meta-data#android.view.im
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:87:13-89:71
+	android:resource
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:89:17-68
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:88:17-47
+activity#org.kde.kdeconnect.UserInterface.MainActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:92:9-107:20
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:94:13-43
+	android:theme
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:95:13-63
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:93:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:96:13-100:29
+action#android.intent.action.MAIN
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:97:17-69
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:97:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:99:17-77
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:99:27-74
+intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:101:13-106:29
+action#android.intent.action.SEND_MULTIPLE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:102:17-78
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:102:25-75
+category#android.intent.category.DEFAULT
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:103:17-76
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:103:27-73
+activity#org.kde.kdeconnect.UserInterface.PluginSettingsActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:108:9-115:20
+	android:parentActivityName
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:111:13-87
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:110:13-56
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:109:13-83
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:112:13-114:81
+	android:value
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:114:17-78
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:113:17-63
+activity#org.kde.kdeconnect.UserInterface.CustomDevicesActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:116:9-123:20
+	android:parentActivityName
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:119:13-87
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:118:13-60
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:117:13-82
+activity#org.kde.kdeconnect.Plugins.SharePlugin.SendFileActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:124:9-131:20
+	android:parentActivityName
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:127:13-87
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:126:13-43
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:125:13-83
+receiver#org.kde.kdeconnect.KdeConnectBroadcastReceiver
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:133:9-154:20
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:133:19-80
+intent-filter#action:name:android.intent.action.PACKAGE_REPLACED+data:host:cyclopconnect+data:path:/+data:scheme:package
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:134:13-141:29
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:135:17-81
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:135:25-78
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:142:13-144:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:143:17-83
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:143:25-81
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:145:13-147:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:146:17-79
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:146:25-76
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:148:13-150:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:149:17-79
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:149:25-76
+intent-filter#action:name:android.net.wifi.WIFI_STATE_CHANGED
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:151:13-153:29
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:152:17-78
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:152:25-75
+activity#org.kde.kdeconnect.Plugins.FindMyPhonePlugin.FindMyPhoneActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:156:9-161:51
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:160:13-54
+	android:excludeFromRecents
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:159:13-46
+	android:launchMode
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:161:13-48
+	android:configChanges
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:158:13-59
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:157:13-92
+receiver#org.kde.kdeconnect.Plugins.FindMyPhonePlugin.FindMyPhoneReceiver
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:163:9-167:20
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:163:19-98
+intent-filter#action:name:org.kde.kdeconnect.Plugins.FindMyPhonePlugin.foundIt
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:164:13-166:29
+action#org.kde.kdeconnect.Plugins.FindMyPhonePlugin.foundIt
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:165:17-95
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:165:25-92
+activity#org.kde.kdeconnect.Plugins.ClibpoardPlugin.ClipboardFloatingActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:171:9-174:48
+	android:excludeFromRecents
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:174:13-46
+	android:theme
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:173:13-53
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:172:13-96
+activity#org.kde.kdeconnect.Plugins.MprisPlugin.MprisActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:177:9-187:20
+	android:screenOrientation
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:182:13-49
+	android:parentActivityName
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:183:13-87
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:179:13-56
+	android:launchMode
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:180:13-43
+	android:theme
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:181:13-63
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:178:13-80
+receiver#org.kde.kdeconnect.Plugins.MprisPlugin.MprisMediaNotificationReceiver
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:189:9-193:20
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:189:19-103
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:190:13-192:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:191:17-77
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:191:25-74
+activity#org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:195:9-202:20
+	android:parentActivityName
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:198:13-87
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:197:13-59
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:196:13-90
+activity#org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandWidgetDeviceSelector
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:203:9-210:67
+	android:screenOrientation
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:209:13-45
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:206:13-59
+	android:excludeFromRecents
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:205:13-46
+	android:launchMode
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:207:13-44
+	android:noHistory
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:208:13-37
+	android:theme
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:210:13-64
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:204:13-102
+service#org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandWidgetDataProviderService
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:212:9-215:72
+	android:exported
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:214:13-37
+	android:permission
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:215:13-69
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:213:13-107
+receiver#org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandWidget
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:217:9-230:20
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:219:13-59
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:218:13-88
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:220:13-222:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:221:17-84
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:221:25-81
+intent-filter#action:name:RUN_COMMAND_ACTION
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:223:13-225:29
+action#RUN_COMMAND_ACTION
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:224:17-61
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:224:25-58
+meta-data#android.appwidget.provider
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:227:13-229:70
+	android:resource
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:229:17-67
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:228:17-58
+activity#org.kde.kdeconnect.Plugins.RunCommandPlugin.RunCommandUrlActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:232:9-244:20
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:232:19-99
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:runcommand+data:scheme:cyclopconnect
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:233:13-243:29
+action#android.intent.action.VIEW
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:234:17-69
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:234:25-66
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:235:17-77
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:235:25-74
+category#android.intent.category.BROWSABLE
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:238:17-78
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:238:27-75
+activity#org.kde.kdeconnect.Plugins.BigscreenPlugin.BigscreenActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:245:9-254:20
+	android:parentActivityName
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:249:13-87
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:248:13-58
+	android:windowSoftInputMode
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:250:13-67
+	android:configChanges
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:247:13-74
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:246:13-88
+activity#org.kde.kdeconnect.Plugins.MousePadPlugin.MousePadActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:255:9-262:20
+	android:parentActivityName
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:258:13-87
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:257:13-57
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:256:13-86
+activity#org.kde.kdeconnect.Plugins.MousePadPlugin.SendKeystrokesToHostActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:263:9-276:20
+	android:parentActivityName
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:266:13-87
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:265:13-73
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:264:13-98
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/x-keystrokes
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:271:13-275:29
+action#android.intent.action.SEND
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:272:17-68
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:272:25-66
+activity#org.kde.kdeconnect.Plugins.PresenterPlugin.PresenterActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:277:9-286:20
+	android:parentActivityName
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:281:13-87
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:280:13-58
+	android:windowSoftInputMode
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:282:13-67
+	android:configChanges
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:279:13-74
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:278:13-88
+activity#org.kde.kdeconnect.Plugins.SharePlugin.ShareActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:287:9-308:20
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:289:13-43
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:288:13-80
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:290:13-296:29
+intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:297:13-303:29
+meta-data#android.service.chooser.chooser_target_service
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:305:13-307:100
+	android:value
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:307:17-97
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:306:17-78
+receiver#org.kde.kdeconnect.Plugins.SharePlugin.ShareBroadcastReceiver
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:310:9-314:20
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:310:19-95
+intent-filter#action:name:org.kde.kdeconnect.Plugins.SharePlugin.CancelShare
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:311:13-313:29
+action#org.kde.kdeconnect.Plugins.SharePlugin.CancelShare
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:312:17-93
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:312:25-90
+provider#androidx.core.content.FileProvider
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:316:9-324:20
+	android:grantUriPermissions
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:320:13-47
+	android:authorities
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:318:13-75
+	android:exported
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:319:13-37
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:317:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:321:13-323:62
+	android:resource
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:323:17-59
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:322:17-67
+service#org.kde.kdeconnect.Plugins.NotificationsPlugin.NotificationReceiver
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:326:9-332:19
+	android:permission
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:328:13-87
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:327:13-95
+intent-filter#action:name:android.service.notification.NotificationListenerService
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:329:13-331:29
+action#android.service.notification.NotificationListenerService
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:330:17-99
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:330:25-96
+service#org.kde.kdeconnect.Plugins.SharePlugin.ShareChooserTargetService
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:333:9-339:19
+	android:permission
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:335:13-80
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:334:13-92
+intent-filter#action:name:android.service.chooser.ChooserTargetService
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:336:13-338:29
+action#android.service.chooser.ChooserTargetService
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:337:17-87
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:337:25-84
+service#org.kde.kdeconnect.Plugins.MouseReceiverPlugin.MouseReceiverService
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:340:9-349:19
+	android:permission
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:342:13-79
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:341:13-95
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:343:13-345:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:344:17-92
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:344:25-89
+meta-data#android.accessibilityservice
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:346:13-348:66
+	android:resource
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:348:17-63
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:347:17-60
+activity#org.kde.kdeconnect.Plugins.NotificationsPlugin.NotificationFilterActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:351:9-358:20
+	android:parentActivityName
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:354:13-97
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:353:13-71
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:352:13-101
+activity#org.kde.kdeconnect.Plugins.PhotoPlugin.PhotoActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:360:9-89
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:360:19-86
+activity#org.kde.kdeconnect.UserInterface.TrustedNetworksActivity
+ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:362:9-369:20
+	android:parentActivityName
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:365:13-87
+	android:label
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:364:13-53
+	android:name
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml:363:13-84
+uses-sdk
+INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.1] /home/rahmonex/.gradle/caches/transforms-3/89dad3bc4086717a8668ef9e3d1a7f2a/transformed/jetified-viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] /home/rahmonex/.gradle/caches/transforms-3/89dad3bc4086717a8668ef9e3d1a7f2a/transformed/jetified-viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /home/rahmonex/.gradle/caches/transforms-3/60a9a2b8cfa8054979ca63e9f3b13521/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/rahmonex/.gradle/caches/transforms-3/60a9a2b8cfa8054979ca63e9f3b13521/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.media:media:1.3.1] /home/rahmonex/.gradle/caches/transforms-3/22acd79fd8a5bf6101b899e27b0f7fcb/transformed/media-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.3.1] /home/rahmonex/.gradle/caches/transforms-3/22acd79fd8a5bf6101b899e27b0f7fcb/transformed/media-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /home/rahmonex/.gradle/caches/transforms-3/962fac657e2dd90cae3a6c1d70c2bd90/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /home/rahmonex/.gradle/caches/transforms-3/962fac657e2dd90cae3a6c1d70c2bd90/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /home/rahmonex/.gradle/caches/transforms-3/06382075b64e17d6d40177057e134f6f/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /home/rahmonex/.gradle/caches/transforms-3/06382075b64e17d6d40177057e134f6f/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rahmonex/.gradle/caches/transforms-3/28dda2b2b8c1035eb0eacb551ace1200/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rahmonex/.gradle/caches/transforms-3/28dda2b2b8c1035eb0eacb551ace1200/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/rahmonex/.gradle/caches/transforms-3/6eca83df6bb34f225b2edee65810c91f/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/rahmonex/.gradle/caches/transforms-3/6eca83df6bb34f225b2edee65810c91f/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/rahmonex/.gradle/caches/transforms-3/72cc7099ef1300188a96cd8dc39f4978/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/rahmonex/.gradle/caches/transforms-3/72cc7099ef1300188a96cd8dc39f4978/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/ad7df60a453f71045fe339aca8d9efed/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/ad7df60a453f71045fe339aca8d9efed/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /home/rahmonex/.gradle/caches/transforms-3/638e4babc70266ca66d7f2a38dacaa5f/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /home/rahmonex/.gradle/caches/transforms-3/638e4babc70266ca66d7f2a38dacaa5f/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/ea14d5dd48d71f28c9d22a4e8ea2f303/transformed/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/ea14d5dd48d71f28c9d22a4e8ea2f303/transformed/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/ca085cae6e611f0c121ea32979e3b987/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/ca085cae6e611f0c121ea32979e3b987/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/4d207b74ce6be2193f8e6621e3bf9922/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/4d207b74ce6be2193f8e6621e3bf9922/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/41aef45dbd0dab17c113efae18203740/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/41aef45dbd0dab17c113efae18203740/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/342dc6329847f816ed049ccbb5f9088a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/342dc6329847f816ed049ccbb5f9088a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] /home/rahmonex/.gradle/caches/transforms-3/570dc36e1da884695c53f686381c7368/transformed/documentfile-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] /home/rahmonex/.gradle/caches/transforms-3/570dc36e1da884695c53f686381c7368/transformed/documentfile-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/68343d46ab295503c6b92bbb4220bcf7/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/68343d46ab295503c6b92bbb4220bcf7/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/rahmonex/.gradle/caches/transforms-3/d93bd429089027f675ccdde6f3b61bf8/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/rahmonex/.gradle/caches/transforms-3/d93bd429089027f675ccdde6f3b61bf8/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/d9778a01aa80b66a45d4c98c8117c33f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/d9778a01aa80b66a45d4c98c8117c33f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] /home/rahmonex/.gradle/caches/transforms-3/48e51d4aac3a4e467eca0d346656c229/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/rahmonex/.gradle/caches/transforms-3/48e51d4aac3a4e467eca0d346656c229/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/ae8f7fea06a8eebaa5a6f66fe836f23c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/ae8f7fea06a8eebaa5a6f66fe836f23c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/db9fc0c45594120a2911ec1eb9a82513/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/db9fc0c45594120a2911ec1eb9a82513/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/aec8a4824f21c45f96066564731eef14/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/aec8a4824f21c45f96066564731eef14/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/1d9969bd3419ce582d552bc7b667ebe9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/1d9969bd3419ce582d552bc7b667ebe9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/rahmonex/.gradle/caches/transforms-3/580a9a0be837b2212d6fb1c47e1144de/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/rahmonex/.gradle/caches/transforms-3/580a9a0be837b2212d6fb1c47e1144de/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/22bd90f0e9e518c4ea0b31e227f8843d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/22bd90f0e9e518c4ea0b31e227f8843d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/46609969640c6d149de81701e0dc1888/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/46609969640c6d149de81701e0dc1888/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/e7e68554738a391fb622b015af9e3aeb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/e7e68554738a391fb622b015af9e3aeb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/978da2ecc9bc974850d519c51d828cc5/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/978da2ecc9bc974850d519c51d828cc5/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/80873fed3be752f902236969a16f0a27/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/80873fed3be752f902236969a16f0a27/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/rahmonex/.gradle/caches/transforms-3/e3411511c1430ded982ba1033f0ad0d3/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/rahmonex/.gradle/caches/transforms-3/e3411511c1430ded982ba1033f0ad0d3/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/a50a668e72ee6df4edd84352b0860f92/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/a50a668e72ee6df4edd84352b0860f92/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/3b57d670b50533b9e3a32293347645bf/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/3b57d670b50533b9e3a32293347645bf/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/rahmonex/.gradle/caches/transforms-3/a20b96900f1c9a57c6443e4b35823817/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/rahmonex/.gradle/caches/transforms-3/a20b96900f1c9a57c6443e4b35823817/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jaredrummler:android-device-names:1.1.9] /home/rahmonex/.gradle/caches/transforms-3/2ca70c4dd62d2089e8669f9b2401610c/transformed/jetified-android-device-names-1.1.9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jaredrummler:android-device-names:1.1.9] /home/rahmonex/.gradle/caches/transforms-3/2ca70c4dd62d2089e8669f9b2401610c/transformed/jetified-android-device-names-1.1.9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/6380d788f49986c262c7f5b7d93125a5/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/rahmonex/.gradle/caches/transforms-3/6380d788f49986c262c7f5b7d93125a5/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/5dfc534db3fb6b44129c08ae5650272d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/5dfc534db3fb6b44129c08ae5650272d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/86a37372874d5543bb751713faa2af2b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/86a37372874d5543bb751713faa2af2b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/9a125ad53e64015a8609155681611e29/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/9a125ad53e64015a8609155681611e29/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/b2c632d2925f745e33d239ab5d81cffe/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/b2c632d2925f745e33d239ab5d81cffe/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/6fb221cd742e7d316b7554fee41a200a/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/6fb221cd742e7d316b7554fee41a200a/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/rahmonex/.gradle/caches/transforms-3/7b6476859b133db065b4a3e72bba3956/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/rahmonex/.gradle/caches/transforms-3/7b6476859b133db065b4a3e72bba3956/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/40b420a5f1f024479906fbac3d2028d2/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/40b420a5f1f024479906fbac3d2028d2/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/c8333c86031716e82aa8ee73f2bd37c7/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/c8333c86031716e82aa8ee73f2bd37c7/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/fc71243843ff0ea46ff1d903cad445dd/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/fc71243843ff0ea46ff1d903cad445dd/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/44a6561c71d76c573b04f07e3232dce0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/44a6561c71d76c573b04f07e3232dce0/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/b1d55442f089dc4f8572d91344d49793/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/b1d55442f089dc4f8572d91344d49793/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/e70d998122ae24daba08e744a5fc91b8/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/rahmonex/.gradle/caches/transforms-3/e70d998122ae24daba08e744a5fc91b8/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+		INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+		ADDED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+		INJECTED from /home/rahmonex/git/cyclop-connect-android/AndroidManifest.xml
+queries
+ADDED from [androidx.media:media:1.3.1] /home/rahmonex/.gradle/caches/transforms-3/22acd79fd8a5bf6101b899e27b0f7fcb/transformed/media-1.3.1/AndroidManifest.xml:24:5-28:15
+intent#action:name:android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.3.1] /home/rahmonex/.gradle/caches/transforms-3/22acd79fd8a5bf6101b899e27b0f7fcb/transformed/media-1.3.1/AndroidManifest.xml:25:9-27:18
+action#android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.3.1] /home/rahmonex/.gradle/caches/transforms-3/22acd79fd8a5bf6101b899e27b0f7fcb/transformed/media-1.3.1/AndroidManifest.xml:26:13-79
+	android:name
+		ADDED from [androidx.media:media:1.3.1] /home/rahmonex/.gradle/caches/transforms-3/22acd79fd8a5bf6101b899e27b0f7fcb/transformed/media-1.3.1/AndroidManifest.xml:26:21-76
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/a50a668e72ee6df4edd84352b0860f92/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/a50a668e72ee6df4edd84352b0860f92/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/a50a668e72ee6df4edd84352b0860f92/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/a50a668e72ee6df4edd84352b0860f92/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/rahmonex/.gradle/caches/transforms-3/a50a668e72ee6df4edd84352b0860f92/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+provider#com.klinker.android.send_message.MmsFileProvider
+ADDED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:10:9-15:50
+	android:grantUriPermissions
+		ADDED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:15:13-47
+	android:enabled
+		ADDED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:13:13-35
+	android:authorities
+		ADDED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:12:13-67
+	android:exported
+		ADDED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:11:13-76
+uses-library#org.apache.http.legacy
+ADDED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:17:9-19:40
+	android:required
+		ADDED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.klinkerapps:android-smsmms:5.2.6] /home/rahmonex/.gradle/caches/transforms-3/6966e51da0d914ae27395e4c768908e9/transformed/jetified-android-smsmms-5.2.6/AndroidManifest.xml:18:13-50
