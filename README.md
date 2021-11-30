@@ -2,16 +2,13 @@
 
 Connect your Cyclop OS computer with your Android device.
 
-Cyclop Connect provides functionality to integrate your phone and your computer:
+Cyclop Connect provides several features to integrate your phone and your computer:
 
-* Sync your phone's notifications with your computer
-* Control your computer's music from your device
-* Send files between your device and your computer
-* Get all your device's notifications on your computer
-* Reply to your messages from the Cyclop OS desktop
-* Use your device as a mouse and keyboard for your computer
-* Use your phone as a slideshow pointer for your computer
-* Find your phone by pinging or ringing by your computer
+* Sync your phone notifications with your computer
+* Browse photos from your phone
+* Reply to SMS messages
+* Share files and links between devices
+* Use your phone as a remote control for your computer
 
 The app seamlessly connects your computer and your mobile device over your local network, securely with RSA encryption.
 
